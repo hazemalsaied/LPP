@@ -1,0 +1,1389 @@
+# MWETOOLKIT: filetype="TaggedPlainCorpus"
+once , when i was six years old , i saw a <mwepart id="538">magnificent</mwepart> <mwepart id="538,690">picture</mwepart> <mwepart id="690">in</mwepart> <mwepart id="690">a</mwepart> <mwepart id="690">book</mwepart> about the <mwepart id="710">primeval</mwepart> <mwepart id="710">forest</mwepart> called ` real-life stories . '
+it showed a <mwepart id="132">boa</mwepart> <mwepart id="132">constrictor</mwepart> swallowing a <mwepart id="953">wild</mwepart> <mwepart id="953">animal</mwepart> .
+here is a <mwepart id="198">copy</mwepart> <mwepart id="198">of</mwepart> <mwepart id="198">the</mwepart> <mwepart id="198">drawing</mwepart> .
+it said in the book : `` <mwepart id="133">boa</mwepart> <mwepart id="133">constrictors</mwepart> swallow their prey whole , without chewing .
+then they are not able to move , and they sleep for the six months it takes for digestion . ''
+so i thought <mwepart id="22">a</mwepart> <mwepart id="22">lot</mwepart> about the adventures of the jungle and , <mwepart id="433">in</mwepart> <mwepart id="433">turn</mwepart> , i managed , with a <mwepart id="168">coloured</mwepart> <mwepart id="168">pencil</mwepart> , to make my <mwepart id="286">first</mwepart> <mwepart id="286">drawing</mwepart> .
+my drawing no. 1 .
+it looked like this : i showed my masterpiece to the grown-ups and i asked them if my drawing frightened them .
+they answered me : `` why would anyone be frightened by a hat ? ''
+my drawing was not of a hat .
+it showed a <mwepart id="132">boa</mwepart> <mwepart id="132">constrictor</mwepart> digesting an elephant .
+i then drew the <mwepart id="436,437">inside</mwepart> <mwepart id="436,437">of</mwepart> <mwepart id="437">the</mwepart> <mwepart id="132,437">boa</mwepart> <mwepart id="132">constrictor</mwepart> , <mwepart id="828">so</mwepart> <mwepart id="828">that</mwepart> the grown-ups could understand .
+they always need to have things explained .
+my drawing no. 2 looked like this : the grown-ups advised me to leave aside drawings of <mwepart id="133">boa</mwepart> <mwepart id="133">constrictors</mwepart> , open or closed , and to apply myself instead to geography , history , arithmetic and grammar .
+thus i abandoned , at the age of six , a <mwepart id="536">magnificent</mwepart> <mwepart id="151,536">career</mwepart> <mwepart id="151">as</mwepart> <mwepart id="151">a</mwepart> <mwepart id="151">painter</mwepart> .
+i was discouraged by the failure of my drawing no. 1 and of my drawing no. 2 .
+grown-ups never <mwepart id="921">understand</mwepart> <mwepart id="921">anything</mwepart> by themselves , and it 's tiresome for children to always explain things for them again and again .
+so i had to choose another profession , and i learned to fly airplanes .
+i flew a little in many places around the world .
+and geography , it 's true , has served me well .
+i could recognize , <mwepart id="69,70">at</mwepart> <mwepart id="69,70,287">first</mwepart> <mwepart id="70,287">glance</mwepart> , <mwepart id="2">china</mwepart> <mwepart id="2">from</mwepart> <mwepart id="2">arizona</mwepart> .
+it 's very useful if you get lost at night .
+i have had , during <mwepart id="603">my</mwepart> <mwepart id="603">life</mwepart> , <mwepart id="22">a</mwepart> <mwepart id="22,526">lot</mwepart> <mwepart id="526">of</mwepart> <mwepart id="526">contact</mwepart> with many persons of consequence .
+i have lived <mwepart id="22">a</mwepart> <mwepart id="22">lot</mwepart> amongst the grownups .
+i have seen them from close up .
+it has n't much improved my opinion of them .
+whenever i met one of them that seemed a bit more clear-sighted , i tried the experiment of showing them my drawing no. 1 , that i 've always kept .
+i wanted to know if they were really a person of <mwepart id="918">true</mwepart> <mwepart id="918">understanding</mwepart> .
+but they always responded : `` it 's a hat . ''
+so i would never <mwepart id="849">speak</mwepart> <mwepart id="849">to</mwepart> <mwepart id="849">them</mwepart> of <mwepart id="133">boa</mwepart> <mwepart id="133">constrictors</mwepart> , nor of primeval forests , nor of the stars .
+i put myself at their level .
+i talked to them about bridge , golf , politics and neckties .
+and the grown-up was glad to know such a <mwepart id="792">sensible</mwepart> <mwepart id="792">man</mwepart> .
+so i lived alone , without anyone i could really talk to , until a <mwepart id="138">breakdown</mwepart> <mwepart id="138">in</mwepart> <mwepart id="138">the</mwepart> <mwepart id="138">sahara</mwepart> desert , six years ago .
+something had broken in my engine .
+and as i had with me neither a mechanic nor any passengers , i readied myself to try and carry out , <mwepart id="36">all</mwepart> <mwepart id="36">alone</mwepart> , the difficult repairs .
+for me it was a <mwepart id="557">matter</mwepart> <mwepart id="557">of</mwepart> <mwepart id="557">life</mwepart> or death .
+i had hardly <mwepart id="255">enough</mwepart> <mwepart id="255">water</mwepart> to drink for a week .
+the <mwepart id="289">first</mwepart> <mwepart id="289">night</mwepart> i went to <mwepart id="821">sleep</mwepart> <mwepart id="821">on</mwepart> the sand , a thousand miles from any <mwepart id="409">human</mwepart> <mwepart id="409">habitation</mwepart> .
+i was more isolated than a shipwrecked <mwepart id="758">sailor</mwepart> <mwepart id="758">on</mwepart> <mwepart id="758">a</mwepart> <mwepart id="720,758">raft</mwepart> <mwepart id="426,720">in</mwepart> <mwepart id="426,720">the</mwepart> <mwepart id="426,566,720">middle</mwepart> <mwepart id="426,566">of</mwepart> <mwepart id="426,566">the</mwepart> <mwepart id="566">ocean</mwepart> .
+so you can imagine my surprise when at daybreak , a funny <mwepart id="500">little</mwepart> <mwepart id="500">voice</mwepart> woke me up .
+it said : `` please ... draw me a sheep ! ''
+`` what ? ''
+`` draw me a sheep ! ''
+i jumped <mwepart id="905">to</mwepart> <mwepart id="905">my</mwepart> feet <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> i 'd been struck by lightning .
+i rubbed my eyes .
+i took a <mwepart id="356">good</mwepart> <mwepart id="356,512">look</mwepart> <mwepart id="512">around</mwepart> <mwepart id="512">me</mwepart> .
+and i saw a quite extraordinary <mwepart id="488">little</mwepart> <mwepart id="488">man</mwepart> , who was examining me seriously .
+here is the best portrait that , later , i managed <mwepart id="902">to</mwepart> <mwepart id="902">do</mwepart> of him .
+but my drawing , of course , is <mwepart id="595">much</mwepart> <mwepart id="595">less</mwepart> <mwepart id="595">charming</mwepart> than its model .
+it 's not my fault .
+i was discouraged in my <mwepart id="151">career</mwepart> <mwepart id="151">as</mwepart> <mwepart id="151">a</mwepart> <mwepart id="151">painter</mwepart> by the grown-ups , at the age of six , and i had n't learned to <mwepart id="230">draw</mwepart> <mwepart id="54,230">anything</mwepart> <mwepart id="54">except</mwepart> <mwepart id="54,133">boa</mwepart> <mwepart id="133">constrictors</mwepart> , closed and open .
+i stared at this <mwepart id="866">sudden</mwepart> <mwepart id="866">apparition</mwepart> <mwepart id="952">wide</mwepart> <mwepart id="952">eyed</mwepart> with astonishment .
+remember that i was a thousand miles from any inhabited region .
+and yet this <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> seemed neither lost , nor half-dead with fatigue , nor starved or dying of thirst or fear .
+he looked <mwepart id="629,630">nothing</mwepart> <mwepart id="629,630">like</mwepart> <mwepart id="630">a</mwepart> <mwepart id="630">child</mwepart> lost <mwepart id="426">in</mwepart> <mwepart id="426">the</mwepart> <mwepart id="426,565">middle</mwepart> <mwepart id="426,565">of</mwepart> <mwepart id="426,565">the</mwepart> <mwepart id="565">desert</mwepart> , a thousand miles from any inhabited region .
+when i finally managed to speak , i said : `` but -- what are you doing here ? ''
+and he repeated , very slowly , <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> it was something very serious : `` please ... draw me a sheep ... '' when a mystery is too overpowering , one dare not disobey .
+absurd as it seemed to me a thousand miles from any <mwepart id="409">human</mwepart> <mwepart id="409">habitation</mwepart> and in <mwepart id="203">danger</mwepart> <mwepart id="203">of</mwepart> <mwepart id="203">death</mwepart> , i took <mwepart id="676">out</mwepart> <mwepart id="676">of</mwepart> my pocket a <mwepart id="799">sheet</mwepart> <mwepart id="799">of</mwepart> <mwepart id="799">paper</mwepart> and a pen .
+but then i remembered that i had mainly studied geigraphy , history , arithmetic and grammar , and i told the <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> -lrb- a little crossly -rrb- that i did n't know how to draw .
+he replied : `` it does n't matter .
+draw me a sheep . ''
+as i 'd never drawn a sheep , i redrew for him one of the only two drawings that i was capable of .
+the one of the <mwepart id="162">closed</mwepart> <mwepart id="132,162">boa</mwepart> <mwepart id="132">constrictor</mwepart> .
+and i was astounded to hear the <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> respond : `` no !
+no !
+i do n't want an <mwepart id="247">elephant</mwepart> <mwepart id="247">inside</mwepart> <mwepart id="247">a</mwepart> <mwepart id="132,247">boa</mwepart> <mwepart id="132">constrictor</mwepart> .
+a <mwepart id="132">boa</mwepart> <mwepart id="132">constrictor</mwepart> is very dangerous , and an elephant is very cumbersome .
+where i <mwepart id="503">live</mwepart> <mwepart id="503">everything</mwepart> is very small .
+i need a sheep .
+draw me a sheep . ''
+so i drew .
+he looked carefully , then said : `` no !
+this one 's already very sick .
+make another one . ''
+i drew again : my friend smiled gently and indulgently : `` you can see yourself ... this is n't a sheep , it 's a ram .
+it has horns ... `` so once again i redid my drawing : but it was rejected , like the previous ones : `` this one 's too old .
+i want a sheep that will live a <mwepart id="509">long</mwepart> <mwepart id="509">time</mwepart> . ''
+so , getting impatient , as i was eager to start dismantling my engine , i hastily sketched this drawing : and i snapped : `` this here is the box .
+the sheep you want is inside . ''
+but i was very surprised to see the face of my <mwepart id="969">young</mwepart> <mwepart id="969">judge</mwepart> <mwepart id="479">light</mwepart> <mwepart id="479">up</mwepart> <mwepart id="479">:</mwepart> `` it 's exactly the way i wanted !
+do you think this sheep needs <mwepart id="22">a</mwepart> <mwepart id="22,527">lot</mwepart> <mwepart id="527">of</mwepart> <mwepart id="527">grass</mwepart> ? ''
+`` why ? ''
+`` because where i 'm from everything is very small ... '' `` there will certainly be enough .
+i gave <mwepart id="967">you</mwepart> <mwepart id="967">a</mwepart> very <mwepart id="824">small</mwepart> <mwepart id="824">sheep</mwepart> . ''
+he leaned his <mwepart id="391">head</mwepart> <mwepart id="391">towards</mwepart> <mwepart id="391">the</mwepart> <mwepart id="391">drawing</mwepart> : `` not that small ... look !
+he 's fallen asleep ... '' and that 's how i met the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+chapter iii it took me a <mwepart id="509">long</mwepart> <mwepart id="509">time</mwepart> to find out where he came from .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , who asked me many questions , never seemed to hear my own .
+it was the words spoken <mwepart id="148">by</mwepart> <mwepart id="148">chance</mwepart> <mwepart id="148">that</mwepart> , little by little , revealed everything to me .
+so , when he saw my airplane for the <mwepart id="291">first</mwepart> <mwepart id="291">time</mwepart> -lrb- i wo n't draw my airplane , it would be a drawing far too complicated for me -rrb- , he asked me : `` what 's that thing there ? ''
+`` it 's not a thing .
+it flies .
+it 's an airplane .
+it 's my airplane . ''
+and i was proud to have him know that i could fly .
+then he cried : `` what ?
+you fell from the sky ! ''
+`` yes , '' i said modestly .
+`` oh !
+that 's funny !
+... '' and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> broke into a <mwepart id="532">lovely</mwepart> <mwepart id="532,686">peal</mwepart> <mwepart id="686">of</mwepart> <mwepart id="686">laughter</mwepart> , which irritated me very much .
+i <mwepart id="701">prefer</mwepart> <mwepart id="701">people</mwepart> to take my misfortunes seriously .
+then he added : `` so , you also <mwepart id="179">come</mwepart> <mwepart id="179">from</mwepart> <mwepart id="179">the</mwepart> sky !
+what planet are you from ? ''
+i caught a <mwepart id="336">glimpse</mwepart> <mwepart id="336">into</mwepart> <mwepart id="336">the</mwepart> <mwepart id="336">mystery</mwepart> of his presence , and i asked abruptly : `` so you <mwepart id="177">come</mwepart> <mwepart id="177">from</mwepart> <mwepart id="177">another</mwepart> planet then ? ''
+but he did n't answer .
+he shook his head slowly whilst looking at my airplane : `` it 's true that you ca n't have <mwepart id="178">come</mwepart> <mwepart id="178">from</mwepart> <mwepart id="178,276">far</mwepart> <mwepart id="276">away</mwepart> <mwepart id="424">in</mwepart> <mwepart id="424">that</mwepart> thing ... '' and he drifted into a daydream which lasted a <mwepart id="510">long</mwepart> <mwepart id="510">while</mwepart> .
+then , taking my sheep <mwepart id="676">out</mwepart> <mwepart id="676">of</mwepart> his pocket , he sank himself into the contemplation of his treasure .
+you can imagine how my curiosity was aroused by this <mwepart id="823">small</mwepart> <mwepart id="823">disclosure</mwepart> about ` the other planets . '
+so i tried to find out more : `` where are you from my <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> ?
+where 's this ` where i live ' of yours ?
+where do you take my sheep off to ? ''
+after a <mwepart id="732">reflective</mwepart> <mwepart id="732">silence</mwepart> he answered : `` what 's good about the box you 've given me is that at night , he can use it as a house . ''
+`` that 's right .
+and if you 're good , i 'll give <mwepart id="967">you</mwepart> <mwepart id="967">a</mwepart> rope to tie him up with during the day .
+and a stake . ''
+the offer seemed to shock the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> : `` tie him up ?
+what a <mwepart id="321">funny</mwepart> <mwepart id="321">idea</mwepart> ! ''
+`` but if you do n't tie him up , he 'll wander off , and get lost . ''
+my friend broke into another <mwepart id="686">peal</mwepart> <mwepart id="686">of</mwepart> <mwepart id="686">laughter</mwepart> : `` where do you think he 'd go ! ''
+`` anywhere .
+straight ahead ... '' then the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> said gravely : `` that does n't matter ; where i live , everything is so small ! ''
+and perhaps with a <mwepart id="402">hint</mwepart> <mwepart id="402">of</mwepart> <mwepart id="402">sadness</mwepart> , he added : `` straight ahead you ca n't go far ... ''
+i thus learned a second very <mwepart id="419">important</mwepart> <mwepart id="419">thing</mwepart> : that his home planet was barely bigger than a house !
+it did n't surprise me much .
+i knew that , <mwepart id="55">apart</mwepart> <mwepart id="55">from</mwepart> the large planets like the earth , jupiter , mars , and venus , which have been given names , there are hundreds of others that are sometimes so small that one has <mwepart id="366">great</mwepart> <mwepart id="366">difficulty</mwepart> in spotting them through the telescope .
+when an astronomer discovers one of these , he gives it <mwepart id="23">a</mwepart> <mwepart id="23">number</mwepart> for as name .
+he might call it <mwepart id="301">for</mwepart> <mwepart id="301">example</mwepart> `` asteroid 325 . ''
+i have <mwepart id="794">serious</mwepart> <mwepart id="794">reason</mwepart> to believe that the planet from where the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> came is the asteroid b-612 .
+this asteroid has only been seen through a telescope once , in 1909 , by a <mwepart id="17">turkish</mwepart> <mwepart id="17">astronomer</mwepart> .
+he had then given a <mwepart id="122">big</mwepart> <mwepart id="122">presentation</mwepart> on his discovery at an <mwepart id="439">international</mwepart> <mwepart id="439">astronomy</mwepart> conference .
+but nobody had believed him because of his outfit .
+grown-ups are like that .
+fortunately for the <mwepart id="734">reputation</mwepart> <mwepart id="734">of</mwepart> <mwepart id="734">asteroid</mwepart> b-612 , a <mwepart id="18">turkish</mwepart> <mwepart id="18">dictator</mwepart> imposed on his people , on <mwepart id="678">pain</mwepart> <mwepart id="678">of</mwepart> <mwepart id="678">death</mwepart> , to dress themselves in the <mwepart id="4">european</mwepart> <mwepart id="4">fashion</mwepart> .
+the astronomer gave his presentation again in 1920 , dressed very stylishly .
+and this time everybody believed him .
+if i have told you these details about the asteroid b-612 , and revealed to you its number , it 's because of the grown-ups .
+grown-ups love numbers .
+when you <mwepart id="873">talk</mwepart> <mwepart id="873">to</mwepart> <mwepart id="873">them</mwepart> about a <mwepart id="609">new</mwepart> <mwepart id="609">friend</mwepart> , they never ask you about any of the important things .
+they never ask you : `` how does his voice sound ?
+what games does he like best ?
+does he collect butterflies ? ''
+they ask : `` how old is he ?
+how many brothers does he have ?
+how much does he weigh ?
+how <mwepart id="596">much</mwepart> <mwepart id="596">money</mwepart> does his father make ? ''
+only then do they think they know him .
+if you said to the grown-ups : `` i saw a beautiful <mwepart id="730">red</mwepart> <mwepart id="730">brick</mwepart> house with geraniums by the windows and doves on the roof ... , '' they would n't be able to picture this house in their minds .
+you 'd <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> tell them : `` i saw a hundred thousand franc house . ''
+and they 'd cry : `` how pretty ! ''
+so if you were to say to them : `` the proof that the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> existed is that he was charming , he laughed , and he wanted a sheep .
+if someone wants a sheep , that proves they exist , '' they 'd shrug their shoulders and treat you like a child .
+but if you were to say : `` the planet he came from is the asteroid b-612 '' , they 'd be convinced , and leave you <mwepart id="422">in</mwepart> <mwepart id="422">peace</mwepart> <mwepart id="422">and</mwepart> spare you their questions .
+they 're like that .
+do n't blame them .
+children should be forgiving towards the grown-ups .
+but , of course , those of us who <mwepart id="922">understand</mwepart> <mwepart id="922">life</mwepart> , we do n't <mwepart id="593">much</mwepart> <mwepart id="593">care</mwepart> for numbers !
+i 'd have liked to begin this story <mwepart id="427">in</mwepart> <mwepart id="427">the</mwepart> <mwepart id="427,765">same</mwepart> <mwepart id="427,765">way</mwepart> <mwepart id="427">as</mwepart> a <mwepart id="272">fairy</mwepart> <mwepart id="272">tale</mwepart> .
+i 'd have liked to say : `` <mwepart id="651">once</mwepart> <mwepart id="651">upon</mwepart> <mwepart id="651">a</mwepart> <mwepart id="651">time</mwepart> , there was a <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> who lived on a planet not much bigger than himself , and who needed a friend ... '' for those who <mwepart id="922">understand</mwepart> <mwepart id="922">life</mwepart> , it would have seemed much more natural .
+for i do n't want my book to be read lightly .
+i feel <mwepart id="827">so</mwepart> <mwepart id="597,827">much</mwepart> <mwepart id="597">sadness</mwepart> in recounting these memories .
+it 's already been six years since my friend left with his sheep .
+if i try to describe him here , it 's so as not to forget him .
+it 's sad to forget a friend .
+not everyone has had a friend .
+and if i forgot him , i could become like the grown-ups who are only interested in numbers .
+<mwepart id="828">so</mwepart> <mwepart id="828">that</mwepart> 's why i have again bought a box of paints and some pencils .
+it 's hard to take up drawing again at my age , when i have only ever attempted to draw a <mwepart id="132">boa</mwepart> <mwepart id="132">constrictor</mwepart> , closed and open , at the age of six !
+i 'll try , of course , to make my portraits as lifelike as possible .
+but i 'm not quite sure i 'll succeed .
+some drawings go alright ; others do n't look like their subjects .
+i also get the size a <mwepart id="130">bit</mwepart> <mwepart id="130">wrong</mwepart> .
+here the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> is too big .
+there he 's too small .
+i 'm also not sure about the colour of his outfit .
+so i fumble along somehow , as best i can .
+i will make mistakes on certain important points too .
+but you 'll <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> forgive me that .
+my friend never gave explanations .
+perhaps he thought i was just like himself .
+but i , unfortunately , do n't know how to <mwepart id="782">see</mwepart> <mwepart id="782">sheep</mwepart> through boxes .
+perhaps i 'm a bit like the grown-ups .
+i must have got older .
+every day i 'd <mwepart id="472">learn</mwepart> <mwepart id="472">something</mwepart> about his planet , the departure , and the trip .
+the information came slowly , as his thoughts wandered .
+it was in this way that , on the <mwepart id="889">third</mwepart> <mwepart id="889">day</mwepart> , i came to <mwepart id="452">know</mwepart> <mwepart id="452">of</mwepart> <mwepart id="452">the</mwepart> tragedy of the baobabs .
+this time again it was thanks to the sheep , because the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> asked me abruptly , <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> seized by a <mwepart id="364">grave</mwepart> <mwepart id="364">doubt</mwepart> : `` it 's true , is n't it , that sheep eat shrubs ? ''
+`` yes .
+it 's true . ''
+`` oh !
+i am glad ! ''
+i did n't understand why it was so important that sheep eat shrubs .
+but the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> added : `` then it follows they also eat baobabs ? ''
+i pointed out to the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> that baobabs were not shrubs , but trees as big as churches , and that even if he took with him a <mwepart id="950">whole</mwepart> <mwepart id="950">herd</mwepart> of elephants , the herd would n't manage to <mwepart id="244">eat</mwepart> <mwepart id="244">up</mwepart> <mwepart id="244">one</mwepart> <mwepart id="809">single</mwepart> <mwepart id="809">baobab</mwepart> .
+<mwepart id="883">the</mwepart> <mwepart id="413,883">idea</mwepart> <mwepart id="413">of</mwepart> <mwepart id="413">the</mwepart> <mwepart id="413">herd</mwepart> of elephants made the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> laugh : `` they 'd <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> be piled up <mwepart id="649">on</mwepart> <mwepart id="649">top</mwepart> <mwepart id="649">of</mwepart> <mwepart id="238">each</mwepart> <mwepart id="238">other</mwepart> ... '' but he remarked wisely : `` the baobab trees , before they grow up , start off small . ''
+`` that 's right !
+but why do you want the sheep to eat the little baobabs ? ''
+he replied : `` oh , come on ! ''
+<mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> it were obvious .
+and it took me a great <mwepart id="561">mental</mwepart> <mwepart id="561">effort</mwepart> to understand this problem on my own , without any help .
+and indeed , on the planet of the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> there were , like on all planets , both good plants and bad plants .
+and therefore , both good seeds from good plants and bad seeds from bad plants .
+but seeds are invisible .
+they sleep secretly deep in the earth until , on a whim , one of them decides to wake up .
+then it elongates and grows , timidly <mwepart id="69">at</mwepart> <mwepart id="69">first</mwepart> , toward the sun : a charming little <mwepart id="375">harmless</mwepart> <mwepart id="375">sprig</mwepart> .
+if it 's a <mwepart id="853">sprig</mwepart> <mwepart id="853">of</mwepart> <mwepart id="853">radish</mwepart> or rose bush , you can let it grow as it likes .
+but if it 's a <mwepart id="86">bad</mwepart> <mwepart id="86">plant</mwepart> , one must pull the plant out straight away , <mwepart id="63">as</mwepart> <mwepart id="63">soon</mwepart> <mwepart id="63">as</mwepart> it can be recognised .
+now there were some terrible seeds on the planet of the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> ... there were the seeds of baobab trees .
+the <mwepart id="831">soil</mwepart> <mwepart id="831">of</mwepart> <mwepart id="831">the</mwepart> <mwepart id="831">planet</mwepart> was infested with them .
+a baobab , if you <mwepart id="329">get</mwepart> <mwepart id="329,903">to</mwepart> <mwepart id="329,903">it</mwepart> too late , can never be got <mwepart id="739">rid</mwepart> <mwepart id="739">of</mwepart> .
+it takes over the <mwepart id="257">entire</mwepart> <mwepart id="257">planet</mwepart> .
+it pierces it with its roots .
+and if the planet is too small , and if there are too many baobabs , they shatter it to pieces .
+`` it 's a <mwepart id="556">matter</mwepart> <mwepart id="556">of</mwepart> <mwepart id="556">discipline</mwepart> , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> told me later .
+`` after grooming oneself in the morning , the planet must be carefully groomed .
+you must <mwepart id="783">see</mwepart> <mwepart id="783,903">to</mwepart> <mwepart id="783,903">it</mwepart> <mwepart id="783">that</mwepart> <mwepart id="783">you</mwepart> regularly pull out the baobabs <mwepart id="63">as</mwepart> <mwepart id="63">soon</mwepart> <mwepart id="63">as</mwepart> they can be told <mwepart id="55">apart</mwepart> <mwepart id="55">from</mwepart> the rose bushes , to which they look very similar when they 're very young .
+it 's a very <mwepart id="134">boring</mwepart> <mwepart id="134">job</mwepart> , but very easy . ''
+and <mwepart id="654">one</mwepart> <mwepart id="654">day</mwepart> <mwepart id="654">he</mwepart> suggested that i apply myself to making a <mwepart id="117">beautiful</mwepart> <mwepart id="117">drawing</mwepart> , <mwepart id="828">so</mwepart> <mwepart id="828">that</mwepart> the children from where i came from would understand all this .
+`` if <mwepart id="655">one</mwepart> <mwepart id="655">day</mwepart> <mwepart id="655">they</mwepart> travel , '' he said to me , `` it could <mwepart id="180">come</mwepart> <mwepart id="180">in</mwepart> <mwepart id="180">useful</mwepart> .
+sometimes there 's <mwepart id="617">no</mwepart> <mwepart id="617">harm</mwepart> in postponing one 's work .
+but in the case of baobabs , that always leads to a catastrophe .
+i used to know a planet inhabited by a <mwepart id="469">lazy</mwepart> <mwepart id="469">man</mwepart> .
+he had neglected three little bushes ... '' and based on what the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> told me , i drew this planet .
+i do n't like to sound like a moralist .
+but the danger of the baobabs is so little understood , and the risks <mwepart id="749">run</mwepart> <mwepart id="749">by</mwepart> <mwepart id="749">anyone</mwepart> who might get lost on an asteroid are so large that , for once , i am breaking my <mwepart id="625">normal</mwepart> <mwepart id="625">reserve</mwepart> .
+<mwepart id="5">i</mwepart> <mwepart id="5">say</mwepart> <mwepart id="5">:</mwepart> `` children !
+beware of baobabs ! ''
+it 's to warn my friends of the danger they 've long been skirting , like myself , without knowing it , that i have worked so hard on this drawing .
+the lesson which i pass on by this means was <mwepart id="960">worth</mwepart> <mwepart id="960">the</mwepart> <mwepart id="960">effort</mwepart> .
+you might be wondering : why is it that in this book there are n't any other drawings as impressive as the drawing of the baobabs ?
+the answer is simple : i tried but i could n't succeed .
+when i drew the baobabs i was spurred on by a <mwepart id="791">sense</mwepart> <mwepart id="791">of</mwepart> <mwepart id="791">urgency</mwepart> .
+oh !
+<mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , i came to understand , gradually , in this way , your <mwepart id="757">sad</mwepart> <mwepart id="757">life</mwepart> .
+for a <mwepart id="509">long</mwepart> <mwepart id="509">time</mwepart> your <mwepart id="657">only</mwepart> <mwepart id="657">entertainment</mwepart> was the softness of the sunsets .
+i learned this <mwepart id="608">new</mwepart> <mwepart id="608">detail</mwepart> on the <mwepart id="308">fourth</mwepart> <mwepart id="308">day</mwepart> , in the morning , when you said to me : `` i 'm very <mwepart id="299">fond</mwepart> <mwepart id="299">of</mwepart> sunsets .
+let 's go and see a sunset now ... '' `` but we <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> wait ... '' `` <mwepart id="934">wait</mwepart> <mwepart id="934">for</mwepart> <mwepart id="934">what</mwepart> ? ''
+`` wait until the sun goes down . ''
+you seemed surprised <mwepart id="69">at</mwepart> <mwepart id="69">first</mwepart> , and then you chuckled at yourself .
+and you said : `` i think myself <mwepart id="72">at</mwepart> <mwepart id="72">home</mwepart> <mwepart id="72">still</mwepart> ! ''
+indeed .
+when it 's <mwepart id="624">noon</mwepart> <mwepart id="624">in</mwepart> <mwepart id="624">the</mwepart> <mwepart id="19,624">united</mwepart> <mwepart id="19">states</mwepart> , the sun , everybody knows , is setting over france .
+it would suffice to be able to <mwepart id="344,345">go</mwepart> <mwepart id="344,345">to</mwepart> <mwepart id="345">france</mwepart> in one minute to be able see a sunset .
+unfortunately , france is much too <mwepart id="276">far</mwepart> <mwepart id="276">away</mwepart> .
+but on your <mwepart id="898">tiny</mwepart> <mwepart id="898">planet</mwepart> , all you needed was to move your chair <mwepart id="21">a</mwepart> <mwepart id="21">few</mwepart> steps .
+and you watched the twilight falling whenever you liked ... <mwepart id="10">one</mwepart> <mwepart id="10">day</mwepart> <mwepart id="10">i</mwepart> saw the sunset forty-four times !
+and a little later you added : `` you know ... you love the sunset , when you 're really sad ... '' `` the day you saw it forty-four times , were you were really that sad then ? ''
+but the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> made no reply .
+on the <mwepart id="280">fifth</mwepart> <mwepart id="280">day</mwepart> , again thanks to the sheep , this secret of the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> 's life was revealed to me .
+he asked abruptly , without anything leading <mwepart id="925">up</mwepart> <mwepart id="903,925">to</mwepart> <mwepart id="903">it</mwepart> , <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> it was the result of a long <mwepart id="806">silent</mwepart> <mwepart id="560,806">meditation</mwepart> <mwepart id="560">on</mwepart> <mwepart id="560">a</mwepart> <mwepart id="560">problem</mwepart> : `` if a sheep eats shrubs , then does it eat flowers too : `` a sheep eats everything it finds . ''
+`` even flowers that have thorns ? ''
+`` yes , even flowers that have thorns . ''
+`` what are the thorns for then ? ''
+i did n't know the answer .
+i was very busy trying to unscrew a bolt in my engine that had got stuck .
+i was very worried because my breakdown was beginning to appear to be very serious , and i had so <mwepart id="485">little</mwepart> <mwepart id="236,485">drinking</mwepart> <mwepart id="236">water</mwepart> left that i had to fear the worst .
+`` what are the thorns for then ? ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> never <mwepart id="475">let</mwepart> <mwepart id="475">go</mwepart> <mwepart id="475">of</mwepart> <mwepart id="475">a</mwepart> question , once he had asked it .
+i was upset over the bolt and i said the <mwepart id="290">first</mwepart> <mwepart id="290">thing</mwepart> that came into my head : `` the thorns are of <mwepart id="621">no</mwepart> <mwepart id="621">use</mwepart> <mwepart id="66">at</mwepart> <mwepart id="66">all</mwepart> .
+flowers have thorns just for spite ! ''
+`` oh ! ''
+but after a <mwepart id="579">moment</mwepart> <mwepart id="579">of</mwepart> <mwepart id="579">silence</mwepart> , he exclaimed with a <mwepart id="838,839">sort</mwepart> <mwepart id="838,839">of</mwepart> <mwepart id="839">resentment</mwepart> : `` i do n't believe you !
+flowers are weak creatures .
+they 're naive .
+they reassure themselves as best they can .
+they think themselves frightful with their thorns ... '' i made no reply .
+<mwepart id="76">at</mwepart> <mwepart id="76">that</mwepart> <mwepart id="76">moment</mwepart> i was thinking to myself : `` if this bolt wo n't budge , i 'll knock it out with a hammer . ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> interrupted my thoughts again : `` and you actually believe that flowers -- '' `` no !
+no !
+i do n't believe it <mwepart id="66,67">at</mwepart> <mwepart id="66,67">all</mwepart> <mwepart id="67">!</mwepart>
+i answered the <mwepart id="290">first</mwepart> <mwepart id="290">thing</mwepart> that came <mwepart id="905">to</mwepart> <mwepart id="905">my</mwepart> mind .
+i , myself , am busy with matters of consequence ! ''
+he looked at me dumbfounded .
+`` matters of consequence ! ''
+he watched me , <mwepart id="374">hammer</mwepart> <mwepart id="374">in</mwepart> <mwepart id="374">hand</mwepart> and my fingers black with grease , leaning on an object that would have seemed to him very ugly .
+`` you talk just like the grown-ups ! ''
+that made me feel a little ashamed .
+but he went on relentlessly : `` you <mwepart id="196">confuse</mwepart> <mwepart id="196">everything</mwepart> ... you <mwepart id="575">mix</mwepart> <mwepart id="575">everything</mwepart> up ! ''
+he was really very angry .
+he shook his golden curls in the breeze : `` i know a planet where there is a redfaced gentleman .
+he has never smelled a flower .
+he has never looked at a star .
+he has never loved anyone .
+he has never done anything but sums .
+<mwepart id="45">and</mwepart> <mwepart id="45">all</mwepart> <mwepart id="45">day</mwepart> long he repeats just like you : ` i am busy with matters of consequence ! '
+and that makes him swell up with pride .
+but this is not a man , he 's a mushroom ! ''
+`` a what ? ''
+`` a mushroom ! ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> was now white with rage .
+`` flowers have been growing thorns for millions of years .
+for millions of years , the sheep have eaten the flowers <mwepart id="1,1,42">all</mwepart> <mwepart id="1,1,42">the</mwepart> <mwepart id="42">same</mwepart> .
+and it 's not a <mwepart id="555">matter</mwepart> <mwepart id="555">of</mwepart> <mwepart id="555">consequence</mwepart> to try to understand why they take <mwepart id="827">so</mwepart> <mwepart id="599,827">much</mwepart> <mwepart id="599">trouble</mwepart> to grow thorns which are never of any use ?
+is the war between flowers and sheep not important ?
+is it not of <mwepart id="583">more</mwepart> <mwepart id="583">consequence</mwepart> and more important than the sums of a <mwepart id="277">fat</mwepart> <mwepart id="277">redfaced</mwepart> gentleman ?
+and if i myself <mwepart id="451">know</mwepart> <mwepart id="451">of</mwepart> <mwepart id="451">a</mwepart> <mwepart id="923">unique</mwepart> <mwepart id="923">flower</mwepart> , which grows nowhere but on my planet , that a <mwepart id="494">little</mwepart> <mwepart id="494">sheep</mwepart> can destroy in one stroke , just like that , one morning , without realising what he 's done , is that not important ! ''
+he blushed , and continued : `` if someone loves a flower of which just one specimen exists amongst the millions and millions of stars , it 's enough to make him happy when he looks at them .
+he can say : ` my flower is <mwepart id="677">out</mwepart> <mwepart id="677">there</mwepart> somewhere ... ' but if the sheep eats the flower , for him it 's <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> suddenly <mwepart id="1,1">all</mwepart> <mwepart id="1,1">the</mwepart> stars have gone out !
+and you think that 's not important !
+he could n't <mwepart id="770">say</mwepart> <mwepart id="770">anything</mwepart> more .
+he suddenly burst into tears .
+night had fallen .
+i had put down my tools .
+of what moment was my hammer , my bolt , or thirst , or death ?
+there was on a star , on a planet , my planet , earth , a <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> to be comforted !
+i took him in my arms .
+i rocked him .
+i said : `` the flower that you love is n't in danger ... i 'll draw <mwepart id="967">you</mwepart> <mwepart id="967">a</mwepart> muzzle for your sheep ... i 'll draw <mwepart id="967">you</mwepart> <mwepart id="967">a</mwepart> railing for your flower ... i. . . ''
+i was n't sure what to say .
+i felt very awkward .
+i did n't know how to reach him , where to find him ... it 's so secretive , the land of tears .
+i learned very quickly to know this flower better .
+there had always been very simple flowers on the planet of the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , decorated with a <mwepart id="814">single</mwepart> <mwepart id="814">row</mwepart> of petals , that did n't take up any space , and did n't <mwepart id="135">bother</mwepart> <mwepart id="135">anyone</mwepart> .
+they would appear one <mwepart id="590">morning</mwepart> <mwepart id="590">in</mwepart> <mwepart id="590">the</mwepart> <mwepart id="590">grass</mwepart> , and by evening they 'd have faded away .
+but this one had sprouted one day , from a seed blown in from no one knows where , and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> had watched very closely this sprout that was not like the other sprouts .
+it could have been a <mwepart id="610">new</mwepart> <mwepart id="446,447,610">kind</mwepart> <mwepart id="446,447">of</mwepart> <mwepart id="447">baobab</mwepart> .
+but the shrub soon stopped growing and began to produce a flower .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , who witnessed the appearance of a <mwepart id="408">huge</mwepart> <mwepart id="408">bud</mwepart> , felt that a <mwepart id="573">miraculous</mwepart> <mwepart id="573">apparition</mwepart> must <mwepart id="248">emerge</mwepart> <mwepart id="248">from</mwepart> <mwepart id="248">it</mwepart> , but the flower never stopped preparing for her <mwepart id="323">future</mwepart> <mwepart id="323">beauty</mwepart> , safe in her <mwepart id="369">green</mwepart> <mwepart id="369">chamber</mwepart> .
+she chose her colours carefully .
+she dressed slowly ; she arranged her petals one by one .
+she did not want to <mwepart id="182,183">come</mwepart> <mwepart id="182,183">out</mwepart> <mwepart id="183">all</mwepart> rumpled , like the poppies .
+she would only want to appear in the <mwepart id="317">full</mwepart> <mwepart id="317">radiance</mwepart> of her beauty .
+oh yes !
+she was a very <mwepart id="294">flirtatious</mwepart> <mwepart id="294">creature</mwepart> !
+and her <mwepart id="604">mysterious</mwepart> <mwepart id="604">adornment</mwepart> had thus lasted for days and days .
+then one morning , exactly at sunrise , she suddenly showed herself .
+and , after having worked with <mwepart id="863">such</mwepart> <mwepart id="863">care</mwepart> and attention to detail , she said with a yawn : `` oh !
+i have only just woken up ... i do apologize ... i am not yet presentable '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> could n't restrain his admiration : `` you 're so beautiful ! ''
+`` am i not ? ''
+the flower responded , sweetly .
+`` and i was born at the <mwepart id="761">same</mwepart> <mwepart id="577,761">moment</mwepart> <mwepart id="577">as</mwepart> <mwepart id="577">the</mwepart> <mwepart id="577">sun</mwepart> ... '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> guessed easily enough that she was not very modest , but how moving she was !
+`` it 's time , i think , for breakfast , '' she added an instant later , `` if you would have the kindness to <mwepart id="887">think</mwepart> <mwepart id="887">of</mwepart> <mwepart id="887">my</mwepart> needs .
+and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , completely abashed , having gone to <mwepart id="514">look</mwepart> <mwepart id="514">for</mwepart> <mwepart id="514">a</mwepart> sprinkling can of <mwepart id="312">fresh</mwepart> <mwepart id="312">water</mwepart> , tended to the flower .
+and like that , she had soon begun to torment <mwepart id="401">him</mwepart> <mwepart id="401">with</mwepart> her vanity .
+one day , <mwepart id="301">for</mwepart> <mwepart id="301">example</mwepart> , speaking of her four thorns , she told the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> : `` let them come , the tigers , with their claws ! ''
+`` there are n't any tigers on my planet , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> objected , `` and tigers do n't eat weeds . ''
+`` i am not a weed , '' the flower replied sweetly .
+`` please forgive me ... `` i do not fear tigers , but i detest drafts .
+you would n't happen to have a screen ? ''
+`` detests drafts ... that 's <mwepart id="85">bad</mwepart> <mwepart id="85,533">luck</mwepart> <mwepart id="533">for</mwepart> <mwepart id="533">a</mwepart> <mwepart id="533">plant</mwepart> , '' remarked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` what a very <mwepart id="191">complicated</mwepart> <mwepart id="191">flower</mwepart> .
+`` in the evening you will put me under a glass dome .
+it is very cold where you live .
+where i come from ... '' but she interrupted herself .
+she had come <mwepart id="425">in</mwepart> <mwepart id="425">the</mwepart> <mwepart id="307,425">form</mwepart> <mwepart id="307,425">of</mwepart> <mwepart id="307,425">a</mwepart> <mwepart id="307">seed</mwepart> .
+she could n't have known anything of other worlds .
+humiliated at having been caught out on a lie so naive , she coughed two or three times to imply the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> was <mwepart id="431">in</mwepart> <mwepart id="431">the</mwepart> <mwepart id="431">wrong</mwepart> .
+`` the screen ... ? ''
+`` i was just going to <mwepart id="518">look</mwepart> <mwepart id="303,518">for</mwepart> <mwepart id="303,518">it</mwepart> when you spoke to me ! ''
+then she forced a cough to inflict still <mwepart id="588">more</mwepart> <mwepart id="588">remorse</mwepart> .
+so the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , despite the <mwepart id="363">good</mwepart> <mwepart id="363">will</mwepart> of his love , had soon <mwepart id="184">come</mwepart> <mwepart id="184">to</mwepart> <mwepart id="184">doubt</mwepart> her .
+he had taken seriously words of no importance , and had become very unhappy .
+`` i should n't have listened to her , '' he told me one day , `` you should never listen to the flowers .
+we must <mwepart id="513">look</mwepart> <mwepart id="513">at</mwepart> them and breathe their fragrance .
+mine perfumed my <mwepart id="951">whole</mwepart> <mwepart id="951">planet</mwepart> , but i did n't know how to <mwepart id="872">take</mwepart> <mwepart id="872">pleasure</mwepart> in it .
+this business of the claws , which annoyed me <mwepart id="827">so</mwepart> <mwepart id="827">much</mwepart> , should only have filled my <mwepart id="395">heart</mwepart> <mwepart id="395">with</mwepart> <mwepart id="395">tenderness</mwepart> and pity '' he continued his confidences : `` i did n't know how to understand !
+i should have her judged by her deeds and not by her words .
+she overwhelmed me with her fragrance and light .
+i should never have <mwepart id="748">run</mwepart> <mwepart id="748">away</mwepart> <mwepart id="748">!</mwepart>
+i should have seen the tenderness behind her contrivances .
+flowers are so contradictory !
+but i was too young to know how to love her . ''
+i think that for his escape he took <mwepart id="32">advantage</mwepart> <mwepart id="32">of</mwepart> <mwepart id="32">a</mwepart> <mwepart id="32,567">migration</mwepart> <mwepart id="567">of</mwepart> <mwepart id="567">a</mwepart> <mwepart id="567">flock</mwepart> of wild birds .
+on the morning of his departure he put his planet in <mwepart id="688">perfect</mwepart> <mwepart id="688">order</mwepart> .
+he carefully swept out his active volcanoes .
+he owned two active volcanoes ; it was very convenient for heating his <mwepart id="139">breakfast</mwepart> <mwepart id="139">in</mwepart> <mwepart id="139">the</mwepart> <mwepart id="139">morning</mwepart> .
+he also owned an <mwepart id="267">extinct</mwepart> <mwepart id="267">volcano</mwepart> .
+but , as he used to say , `` you never know ! ''
+so he cleaned out the <mwepart id="267">extinct</mwepart> <mwepart id="267">volcano</mwepart> , too .
+if they are well cleaned out , volcanoes burn slowly and steadily , without any eruptions .
+volcanic eruptions are like fires in a chimney .
+on our earth we 're obviously much too small to clean out our volcanoes .
+that 's why they cause us <mwepart id="615">no</mwepart> <mwepart id="251,615">end</mwepart> <mwepart id="251">of</mwepart> <mwepart id="251">trouble</mwepart> .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> also pulled up , with a <mwepart id="402">hint</mwepart> <mwepart id="402">of</mwepart> <mwepart id="402">sadness</mwepart> , the last little shoots of the baobabs .
+he believed he would never return .
+but all these familiar tasks seemed , on that morning , very precious .
+and as he watered the flower one <mwepart id="468">last</mwepart> <mwepart id="468">time</mwepart> , and prepared to shelter her under her dome , he found himself close to tears .
+`` goodbye , '' he said to the flower .
+but she did n't answer .
+`` goodbye , '' he said again .
+the flower coughed .
+but it was not because she had a cold .
+`` i was silly , '' she said finally .
+`` i ask your forgiveness .
+try to be happy . ''
+he was surprised by this absence of reproaches .
+he stood there all bewildered , the dome held in mid-air .
+he did n't understand this <mwepart id="717">quiet</mwepart> <mwepart id="717">sweetness</mwepart> .
+`` of course i love you , '' the flower said to him .
+`` it 's my fault that you did n't know .
+that is of no importance .
+but you have been just as foolish as i have .
+try to be happy ... let the dome be .
+i do not want it anymore . ''
+`` but the wind -- '' `` my cold is not all that bad ... the <mwepart id="197">cool</mwepart> <mwepart id="197">night</mwepart> air will do me good .
+i am a flower . ''
+`` but the animals -- '' `` i will <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> endure two or three caterpillars if i wish to become acquainted with the butterflies .
+it seems that they are very beautiful .
+and otherwise who else will <mwepart id="188">come</mwepart> <mwepart id="188">to</mwepart> <mwepart id="188">visit</mwepart> me ?
+you will be <mwepart id="276">far</mwepart> <mwepart id="276">away</mwepart> .
+as for the large animals , i am not <mwepart id="66,68">at</mwepart> <mwepart id="66,68">all</mwepart> <mwepart id="68">afraid</mwepart> of anything .
+i have my claws . ''
+and , naively , she showed her four thorns .
+then she added : `` do n't linger like this , it 's tiresome .
+you have decided to leave .
+now go ! ''
+for she did not want him to see her crying .
+she was such a <mwepart id="713">proud</mwepart> <mwepart id="713">flower</mwepart> ...
+he found himself in the neighborhood of the asteroids 325 , 326 , 327 , 328 , 329 , and 330 .
+so he began by visiting them to learn more .
+the first one was inhabited by a king .
+the king was sitting , dressed in purple and ermine , on a very simple yet <mwepart id="541">majestic</mwepart> <mwepart id="541">throne</mwepart> .
+`` ah !
+here comes a subject , '' exclaimed the king , when he caught sight of the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> asked himself : `` how could he recognise me when he 's never seen me before ? ''
+he did n't know that for kings , the world is very much simplified .
+to them , all men are subjects .
+`` approach , <mwepart id="828">so</mwepart> <mwepart id="828">that</mwepart> i may see you better , '' said the king , who was very proud to finally <mwepart id="99">be</mwepart> <mwepart id="99,449">king</mwepart> <mwepart id="449">over</mwepart> <mwepart id="449">somebody</mwepart> .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> looked around him for a place to sit , but the planet was completely taken over by the <mwepart id="537">magnificent</mwepart> <mwepart id="537">ermine</mwepart> robe .
+so he remained standing , and , since he was tired , he yawned .
+`` it is contrary to etiquette to yawn in the <mwepart id="702">presence</mwepart> <mwepart id="702">of</mwepart> <mwepart id="702">a</mwepart> <mwepart id="702">king</mwepart> , '' the monarch said to him .
+`` i forbid you <mwepart id="902">to</mwepart> <mwepart id="902">do</mwepart> so . ''
+`` i ca n't stop myself , '' replied the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , thoroughly embarrassed .
+`` ive <mwepart id="181">come</mwepart> <mwepart id="181">on</mwepart> <mwepart id="181">a</mwepart> <mwepart id="508">long</mwepart> <mwepart id="508">journey</mwepart> , and i have n't slept ... '' `` ah , then , '' the king said .
+`` i order you to yawn .
+i have not seen anyone yawning for years .
+yawns , to me , are objects of curiosity .
+come , now !
+yawn again !
+it is an order . ''
+`` that frightens me ... i ca n't any more ... '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , blushing .
+`` hum !
+hum ! ''
+replied the king .
+`` then i -- i order you sometimes to yawn and sometimes to -- '' he sputtered a bit , and seemed vexed .
+for the king fundamentally insisted that his authority be respected .
+he did n't <mwepart id="910">tolerate</mwepart> <mwepart id="910">disobedience</mwepart> .
+he was an <mwepart id="28">absolute</mwepart> <mwepart id="28">monarch</mwepart> .
+but , because he was good <mwepart id="71">at</mwepart> <mwepart id="71">heart</mwepart> , he gave reasonable orders .
+`` if i ordered a general , '' he would often say , `` if i ordered a general to change himself into a seabird , and if the general did not obey me , it would not be the general 's fault .
+it would be my fault . ''
+`` may i <mwepart id="815">sit</mwepart> <mwepart id="815">down</mwepart> ? ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> enquired timidly .
+`` i order you to <mwepart id="815">sit</mwepart> <mwepart id="815">down</mwepart> , '' replied the king , who majestically gathered in a fold of his ermine mantle .
+but the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> was astonished .
+the planet was tiny .
+over what could this king really rule ?
+`` sire , '' he said to him , `` excuse my asking <mwepart id="967">you</mwepart> <mwepart id="967">a</mwepart> question -- '' `` i order you to ask me a question , '' hastened to say the king .
+`` sire ... over what do you rule ? ''
+`` over everything , '' said the king , with a <mwepart id="539">magnificent</mwepart> <mwepart id="539">simplicity</mwepart> .
+`` over everything ? ''
+the king made a <mwepart id="861">subtle</mwepart> <mwepart id="861">gesture</mwepart> , pointing out his planet , the other planets and the stars .
+`` over all that ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` over all that , '' the king answered .
+for his rule was not only absolute : it was also universal .
+`` and the stars obey you ? ''
+`` of course , '' the king said .
+`` they obey instantly .
+i do not <mwepart id="911">tolerate</mwepart> <mwepart id="911">insubordination</mwepart> . ''
+<mwepart id="865">such</mwepart> <mwepart id="865">power</mwepart> filled the <mwepart id="493">little</mwepart> <mwepart id="493,712">prince</mwepart> <mwepart id="712">with</mwepart> <mwepart id="712">wonder</mwepart> .
+if he had held it himself , he would 've been able to watch , not forty-four , but seventy-two , or even a hundred , or even two hundred sunsets on the <mwepart id="759">same</mwepart> <mwepart id="759">day</mwepart> , without ever having to move his chair !
+and as he felt a <mwepart id="129">bit</mwepart> <mwepart id="129">sad</mwepart> as he remembered his forsaken <mwepart id="491">little</mwepart> <mwepart id="491">planet</mwepart> , he plucked up his courage to ask the king a favour : `` i 'd like to see a sunset ... do that for me ... order the sun to set ... '' `` if i ordered a general to fly from one flower to another like a butterfly , or to write a <mwepart id="914">tragic</mwepart> <mwepart id="914">drama</mwepart> , or to change himself into a sea bird , and if the general did not carry out the order received , which one of us would <mwepart id="98">be</mwepart> <mwepart id="98,431">in</mwepart> <mwepart id="98,431">the</mwepart> <mwepart id="98,431">wrong</mwepart> <mwepart id="98">?</mwepart> ''
+you , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> firmly .
+`` exactly .
+one must <mwepart id="64">ask</mwepart> <mwepart id="64">of</mwepart> <mwepart id="64">each</mwepart> person that which they can give , '' the king went on .
+`` authority is based <mwepart id="26">above</mwepart> <mwepart id="26">all</mwepart> <mwepart id="26">on</mwepart> reason .
+if you ordered your people to go and throw themselves into the sea , they would rise up in revolution .
+i have the right to <mwepart id="208">demand</mwepart> <mwepart id="208">obedience</mwepart> because my orders are reasonable . ''
+`` then my sunset ? ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> reminded him , who never forgot a question once he had asked it .
+`` you shall have your sunset .
+i shall command it .
+but i shall wait , according <mwepart id="905">to</mwepart> <mwepart id="905">my</mwepart> <mwepart id="774">science</mwepart> <mwepart id="774">of</mwepart> <mwepart id="774">government</mwepart> , until conditions are favourable . ''
+`` when will <mwepart id="881">that</mwepart> <mwepart id="881">be</mwepart> ? ''
+inquired the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` hum !
+hum ! ''
+replied the king , who consulted a <mwepart id="142">bulky</mwepart> <mwepart id="142">almanac</mwepart> .
+`` hum !
+hum !
+that will be about -- about -- that will be this evening about twenty minutes to eight .
+and you will see how well i am obeyed ! ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> yawned .
+he was regretting his <mwepart id="523">lost</mwepart> <mwepart id="523">sunset</mwepart> .
+and then he was already getting a little bored .
+`` i 've nothing more <mwepart id="902">to</mwepart> <mwepart id="902">do</mwepart> here , '' he said to the king .
+`` i 'll set off . ''
+`` do not go , '' said the king , who was very proud of having a subject .
+`` do not go .
+i will make <mwepart id="967">you</mwepart> <mwepart id="967">a</mwepart> minister ! ''
+`` minister of what ? ''
+`` minster of -- of justice ! ''
+`` but there 's nobody here to judge ! ''
+`` we do not know that , '' the king said to him .
+`` i have not yet made a <mwepart id="190">complete</mwepart> <mwepart id="190">tour</mwepart> of my kingdom .
+i am very old , i have no <mwepart id="845">space</mwepart> <mwepart id="845">for</mwepart> <mwepart id="845">a</mwepart> <mwepart id="845">carriage</mwepart> and it tires me to walk . ''
+`` oh , but i 've already looked ! ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , who leant over to give one <mwepart id="587">more</mwepart> <mwepart id="587">glance</mwepart> at <mwepart id="884">the</mwepart> <mwepart id="671,884">other</mwepart> <mwepart id="671,803,884">side</mwepart> <mwepart id="803,884">of</mwepart> <mwepart id="803">the</mwepart> <mwepart id="803">planet</mwepart> .
+there was no one there either ... `` then you shall judge yourself , '' the king answered .
+`` that is the most <mwepart id="218">difficult</mwepart> <mwepart id="218">thing</mwepart> of all .
+it is much more difficult to judge oneself than to <mwepart id="443">judge</mwepart> <mwepart id="443">someone</mwepart> else .
+if you succeed in judging yourself rightly , then you are truly wise . ''
+`` yes , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` but i can judge myself anywhere .
+i do n't <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> live here . ''
+`` hum !
+hum ! ''
+said the king .
+`` i am fairly certain that somewhere on my planet there is an <mwepart id="643">old</mwepart> <mwepart id="643">rat</mwepart> .
+i hear him at night .
+you can judge this <mwepart id="643">old</mwepart> <mwepart id="643">rat</mwepart> .
+<mwepart id="314">from</mwepart> <mwepart id="314">time</mwepart> <mwepart id="314">to</mwepart> <mwepart id="314">time</mwepart> <mwepart id="314">you</mwepart> will condemn him <mwepart id="901">to</mwepart> <mwepart id="901">death</mwepart> .
+thus his life will <mwepart id="209">depend</mwepart> <mwepart id="209">on</mwepart> <mwepart id="209">your</mwepart> justice .
+but you will pardon him on each occasion to conserve him .
+there is only one of him . ''
+`` i , '' replied the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` do n't like to <mwepart id="195">condemn</mwepart> <mwepart id="195">anyone</mwepart> <mwepart id="901">to</mwepart> <mwepart id="901">death</mwepart> , and now i think i 'll <mwepart id="341">go</mwepart> <mwepart id="341">on</mwepart> <mwepart id="341">my</mwepart> way . ''
+`` no , '' said the king .
+but the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , having readied himself to leave , had no wish to grieve the <mwepart id="641">old</mwepart> <mwepart id="641">monarch</mwepart> .
+`` if your majesty wishes to be promptly obeyed , he should be able to give me a <mwepart id="726">reasonable</mwepart> <mwepart id="726">order</mwepart> .
+he should be able , <mwepart id="301">for</mwepart> <mwepart id="301">example</mwepart> , <mwepart id="906">to</mwepart> <mwepart id="906">order</mwepart> <mwepart id="906">me</mwepart> to leave within a minute .
+it seems to me that conditions are favourable ... '' as the king made no answer , the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> hesitated <mwepart id="69">at</mwepart> <mwepart id="69">first</mwepart> , then , with a sigh , took his leave .
+`` i make you my ambassador , '' the king hastily called out .
+he had a <mwepart id="535">magnificent</mwepart> <mwepart id="35,535">air</mwepart> <mwepart id="35">of</mwepart> <mwepart id="35">authority</mwepart> .
+`` the grown-ups are very strange , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> said to himself , as he continued on his journey .
+the <mwepart id="777">second</mwepart> <mwepart id="777">planet</mwepart> was inhabited by a <mwepart id="192">conceited</mwepart> <mwepart id="192">man</mwepart> .
+`` ah !
+here comes a <mwepart id="931">visit</mwepart> <mwepart id="931">from</mwepart> <mwepart id="931">an</mwepart> <mwepart id="931">admirer</mwepart> ! ''
+exclaimed the <mwepart id="192">conceited</mwepart> <mwepart id="192,546">man</mwepart> <mwepart id="546">from</mwepart> <mwepart id="546">afar</mwepart> , the moment he spotted the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+because , to conceited men , all other men are admirers .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` you have a <mwepart id="320">funny</mwepart> <mwepart id="320">hat</mwepart> . ''
+`` it 's for saluting , '' the <mwepart id="192">conceited</mwepart> <mwepart id="192">man</mwepart> replied .
+`` it 's to <mwepart id="723">raise</mwepart> <mwepart id="723">in</mwepart> <mwepart id="723">salute</mwepart> when people acclaim me .
+unfortunately , nobody ever passes by this way . ''
+`` oh , really ? ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , who did n't understand .
+`` clap your hands , one against the other , '' the <mwepart id="192">conceited</mwepart> <mwepart id="192">man</mwepart> advised .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> clapped his hands , one against the other .
+the <mwepart id="192">conceited</mwepart> <mwepart id="192">man</mwepart> raised his hat in a <mwepart id="576">modest</mwepart> <mwepart id="576">salute</mwepart> .
+`` this is <mwepart id="586">more</mwepart> <mwepart id="318,586">fun</mwepart> <mwepart id="318">than</mwepart> <mwepart id="318">the</mwepart> <mwepart id="318">visit</mwepart> to the king , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> said to himself .
+and he began again to clap his hands , one against the other .
+the <mwepart id="192">conceited</mwepart> <mwepart id="192">man</mwepart> again raised his <mwepart id="376">hat</mwepart> <mwepart id="376">in</mwepart> <mwepart id="376">a</mwepart> <mwepart id="376">salute</mwepart> .
+after five minutes of this exercise the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> grew <mwepart id="899">tired</mwepart> <mwepart id="899">of</mwepart> <mwepart id="899">the</mwepart> <mwepart id="580">monotony</mwepart> <mwepart id="580">of</mwepart> <mwepart id="580">the</mwepart> <mwepart id="580">game</mwepart> : `` and what should i do , '' he asked , `` to make the hat <mwepart id="172">come</mwepart> <mwepart id="172">down</mwepart> <mwepart id="172">?</mwepart> ''
+but the <mwepart id="192">conceited</mwepart> <mwepart id="192">man</mwepart> did n't hear him .
+<mwepart id="193">conceited</mwepart> <mwepart id="193">people</mwepart> never <mwepart id="393">hear</mwepart> <mwepart id="52,393">anything</mwepart> <mwepart id="52">but</mwepart> <mwepart id="52">praise</mwepart> .
+`` do you really admire me <mwepart id="22">a</mwepart> <mwepart id="22">lot</mwepart> ? ''
+he asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` what does that mean -- ` to admire ' ? ''
+``` to admire ' means ` to recognise that i 'm the most handsome , the best-dressed , the richest , and the most <mwepart id="438">intelligent</mwepart> <mwepart id="438,548">man</mwepart> <mwepart id="548">on</mwepart> <mwepart id="548">the</mwepart> <mwepart id="548">planet</mwepart> .
+''' `` but you 're the <mwepart id="658">only</mwepart> <mwepart id="658">man</mwepart> on your planet ! ''
+`` do it for me .
+admire me <mwepart id="444">just</mwepart> <mwepart id="444">the</mwepart> <mwepart id="444">same</mwepart> . ''
+`` i admire you , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , shrugging his shoulders a little , `` but how can that interest you <mwepart id="827">so</mwepart> <mwepart id="827">much</mwepart> ? ''
+and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> went away .
+`` the grown-ups are certainly very odd , '' he said to himself , as he continued his journey .
+the <mwepart id="613">next</mwepart> <mwepart id="613">planet</mwepart> was inhabited by a <mwepart id="397">heavy</mwepart> <mwepart id="397">drinker</mwepart> .
+this was a very <mwepart id="802">short</mwepart> <mwepart id="802">visit</mwepart> , but it plunged the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> into a <mwepart id="207">deep</mwepart> <mwepart id="207">sadness</mwepart> .
+`` what are you doing there ? ''
+he said to the drinker , who he found sitting in <mwepart id="805">silence</mwepart> <mwepart id="420,805">in</mwepart> <mwepart id="315,420,805">front</mwepart> <mwepart id="315,420">of</mwepart> <mwepart id="23,315">a</mwepart> <mwepart id="23,315">number</mwepart> of empty bottles and <mwepart id="23">a</mwepart> <mwepart id="23">number</mwepart> of full bottles .
+`` i 'm drinking , '' replied the drinker , gloomily .
+`` why are you drinking ? ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> asked him .
+`` to forget , '' replied the drinker .
+`` to forget what ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , who already felt sorry for him .
+`` to forget that i 'm ashamed , '' confessed the drinker , lowering his head .
+`` ashamed of what ? ''
+inquired the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , who wanted to help him .
+`` ashamed of drinking ! ''
+concluded the drinker , who then shut himself away in the silence .
+and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> went away , puzzled .
+`` the grown-ups are certainly very , very odd , '' he said to himself , as he continued on his journey .
+the <mwepart id="309">fourth</mwepart> <mwepart id="309">planet</mwepart> belonged to a businessman .
+this man was so busy that he did n't even raise his head when the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> arrived .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> said to him .
+`` your cigarette has gone out . ''
+`` three and two make five .
+five and seven make twelve .
+twelve and three make fifteen .
+<mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> .
+fifteen and seven make twenty-two .
+twenty-two and six make twenty-eight .
+no time <mwepart id="904">to</mwepart> <mwepart id="904">light</mwepart> it again .
+twenty-six and five make thirty-one .
+phew !
+then that makes five-hundred-and-one million , six-hundred-twenty-two-thousand , seven-hundred-thirty-one . ''
+`` five hundred million what ? ''
+`` huh ?
+are you still there ?
+five-hundred-and-one million ... i 've forgotten now ... i have <mwepart id="827">so</mwepart> <mwepart id="600,827">much</mwepart> <mwepart id="600">work</mwepart> !
+i am a <mwepart id="547">man</mwepart> <mwepart id="547">of</mwepart> <mwepart id="547">consequence</mwepart> .
+i do n't amuse myself with balderdash !
+two and five make seven .
+`` five-hundred-and-one million what ? ''
+repeated the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , who had never in his life <mwepart id="475">let</mwepart> <mwepart id="475">go</mwepart> <mwepart id="475">of</mwepart> <mwepart id="475">a</mwepart> question , once he had asked it .
+the businessman raised his head .
+`` during the fifty-four years that i 've lived on this planet , i 've only been disturbed three times .
+the <mwepart id="291">first</mwepart> <mwepart id="291">time</mwepart> was twenty-two years ago , by some scatterbrain who fell from god knows where .
+he made the most <mwepart id="233">dreadful</mwepart> <mwepart id="233">noise</mwepart> , and i made four mistakes in a sum .
+the <mwepart id="778">second</mwepart> <mwepart id="778">time</mwepart> was eleven years ago , by an <mwepart id="79">attack</mwepart> <mwepart id="79">of</mwepart> <mwepart id="79">rheumatism</mwepart> .
+i do n't get <mwepart id="253">enough</mwepart> <mwepart id="253">exercise</mwepart> .
+i do n't <mwepart id="389">have</mwepart> <mwepart id="389">time</mwepart> to stroll about .
+i am a <mwepart id="547">man</mwepart> <mwepart id="547">of</mwepart> <mwepart id="547">consequence</mwepart> .
+the third time -- well , this is it !
+i was saying , then , five-hundred-and-one million -- '' `` millions of what ? ''
+the businessman realised that there was no hope of being left <mwepart id="421">in</mwepart> <mwepart id="421">peace</mwepart> <mwepart id="421">:</mwepart> `` millions of those little objects that you see sometimes in the sky . ''
+`` flies ? ''
+`` no , no , the little things that shine . ''
+`` bees ? ''
+`` no , no !
+the little golden things that make lazy men daydream .
+as for me , i am a <mwepart id="547">man</mwepart> <mwepart id="547">of</mwepart> <mwepart id="547">consequence</mwepart> .
+i have no time to daydream . ''
+` ah !
+the stars ? ''
+`` yes , that 's it .
+the stars . ''
+`` and what do you do with five-hundred million stars ? ''
+`` five-hundred-and-one million , six-hundred-twenty-two thousand , seven-hundred-thirty-one .
+i am a <mwepart id="547">man</mwepart> <mwepart id="547">of</mwepart> <mwepart id="547">consequence</mwepart> : i am precise . ''
+`` and what do you <mwepart id="226">do</mwepart> <mwepart id="226">with</mwepart> <mwepart id="226">these</mwepart> stars ? ''
+`` what do i <mwepart id="225">do</mwepart> <mwepart id="225">with</mwepart> <mwepart id="225">them</mwepart> ? ''
+`` yes . ''
+`` nothing .
+i own them . ''
+`` you own the stars ? ''
+`` yes . ''
+`` but i 've already seen a king who -- '' `` kings do n't own , they ` reign ' over .
+it 's very different . ''
+`` and how does owning the stars help you ? ''
+`` it helps by making me rich . ''
+`` and how does being <mwepart id="738">rich</mwepart> <mwepart id="738">help</mwepart> you ? ''
+`` to buy more stars , if someone discovers some more . ''
+`` this man , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> said to himself , `` reasons a bit like my <mwepart id="699">poor</mwepart> <mwepart id="699">drinker</mwepart> ... '' but he still had some questions : `` how can you own the stars ?
+`` `` who owns them ? ''
+the businessman retorted , grumpily .
+`` i do n't know .
+nobody does . ''
+`` then they belong to me , because i thought <mwepart id="636">of</mwepart> <mwepart id="636">it</mwepart> first . ''
+`` is that all that 's necessary ? ''
+`` certainly .
+when you find a diamond that belongs to nobody , it 's yours .
+when you discover an island that belongs to nobody , it 's yours .
+when you get an idea first , you take out a patent : it 's yours .
+and i own the stars , because no one before me ever thought of owning them .
+`` yes , that 's true , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` and what do you <mwepart id="225">do</mwepart> <mwepart id="225">with</mwepart> <mwepart id="225">them</mwepart> ? ''
+`` i administer them .
+i count them and recount them , '' said the businessman .
+`` it 's difficult .
+but i am a <mwepart id="547">man</mwepart> <mwepart id="547">of</mwepart> <mwepart id="547">consequence</mwepart> . ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> was still not satisfied .
+`` if i owned a scarf , i could put it around my neck and <mwepart id="871">take</mwepart> <mwepart id="871">it</mwepart> <mwepart id="871">away</mwepart> with me .
+if i owned a flower , i could pick my flower and <mwepart id="871">take</mwepart> <mwepart id="871">it</mwepart> <mwepart id="871">away</mwepart> with me .
+but you ca n't pick the stars . ''
+`` no .
+but i can put them in the bank . ''
+`` what does that mean ? ''
+`` that means that i write the number of my stars on a <mwepart id="490">little</mwepart> <mwepart id="490">paper</mwepart> .
+and then i lock this <mwepart id="681">paper</mwepart> <mwepart id="681">in</mwepart> <mwepart id="681">a</mwepart> <mwepart id="681">draw</mwepart> . ''
+`` and that 's all ? ''
+`` that 's enough . ''
+`` that 's funny , '' thought the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` it 's rather poetic .
+but it 's of no <mwepart id="365">great</mwepart> <mwepart id="365">consequence</mwepart> . ''
+on matters of consequence , the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> had ideas which were very different from those of the grown-ups .
+`` i myself , '' he continued , `` own a flower that i water every day .
+i own three volcanoes , that i <mwepart id="867">sweep</mwepart> <mwepart id="867">out</mwepart> every week , as i also <mwepart id="867">sweep</mwepart> <mwepart id="867">out</mwepart> the one that 's extinct .
+you never know .
+it 's of some use <mwepart id="905">to</mwepart> <mwepart id="905">my</mwepart> volcanoes , and it 's of some use <mwepart id="905">to</mwepart> <mwepart id="905">my</mwepart> flower , that i own them .
+but you 're of <mwepart id="621">no</mwepart> <mwepart id="621">use</mwepart> to the stars ... '' the businessman opened his mouth , but he found nothing to <mwepart id="772">say</mwepart> <mwepart id="772">in</mwepart> <mwepart id="772">response</mwepart> , and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> went away .
+`` the grown-ups are certainly altogether extraordinary , '' he said to himself , as he continued on the journey .
+the <mwepart id="281">fifth</mwepart> <mwepart id="281">planet</mwepart> was very strange .
+it was the smallest of them all .
+there was just <mwepart id="254">enough</mwepart> <mwepart id="254">room</mwepart> on it to accommodate a street lamp and a lamplighter .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> could n't <mwepart id="958">work</mwepart> <mwepart id="958">out</mwepart> the purpose of having a street lamp and a lamplighter , somewhere out in the skies , on a planet without any houses or people .
+he said to himself nevertheless : `` it may well be that this man is absurd .
+but , he 's less absurd than the king , than the <mwepart id="192">conceited</mwepart> <mwepart id="192">man</mwepart> , the businessman , or the drinker .
+at least his work has some meaning .
+when he lights his lamp , it 's <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> he 's bringing to life one <mwepart id="589">more</mwepart> <mwepart id="589">star</mwepart> , or one <mwepart id="585">more</mwepart> <mwepart id="585">flower</mwepart> .
+when he puts out his lamp , he sends the flower , or the star , to sleep .
+that 's a <mwepart id="118">beautiful</mwepart> <mwepart id="118">occupation</mwepart> .
+it serves a <mwepart id="725">real</mwepart> <mwepart id="725">purpose</mwepart> , because it 's pretty . ''
+when he arrived on the planet he respectfully saluted the lamplighter .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> .
+why have you just put out your lamp ? ''
+`` those are the orders , '' replied the lamplighter .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> . ''
+`` what are the orders ? ''
+`` that i put out my lamp .
+<mwepart id="354">good</mwepart> <mwepart id="354">evening</mwepart> . ''
+and he lit it again .
+`` but why have you just lit it again ? ''
+`` those are the orders , '' replied the lamplighter .
+`` i do n't understand , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` there 's nothing to understand , '' said the lamplighter .
+`` orders are orders .
+<mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> . ''
+and he put out his lamp .
+then he sponged his <mwepart id="306">forehead</mwepart> <mwepart id="306">with</mwepart> <mwepart id="306">a</mwepart> <mwepart id="306">handkerchief</mwepart> , decorated with red squares .
+`` i have a <mwepart id="878">terrible</mwepart> <mwepart id="878">profession</mwepart> .
+in the old days it was reasonable .
+i 'd put the lamp out in the morning , and in the evening i 'd light it .
+i had the <mwepart id="735">rest</mwepart> <mwepart id="735">of</mwepart> <mwepart id="735">the</mwepart> <mwepart id="735">day</mwepart> <mwepart id="908">to</mwepart> <mwepart id="908">rest</mwepart> , and the <mwepart id="736">rest</mwepart> <mwepart id="736">of</mwepart> <mwepart id="736">the</mwepart> <mwepart id="736">night</mwepart> to sleep ... '' `` and since then , have the orders changed ? ''
+`` the orders have n't changed , '' said the lamplighter .
+`` that 's the tragedy !
+every year the planet has turned faster and faster , and the orders have n't changed ! ''
+`` <mwepart id="829">so</mwepart> <mwepart id="829">what</mwepart> then ? ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` so <mwepart id="632">now</mwepart> <mwepart id="632">that</mwepart> it spins <mwepart id="745">round</mwepart> <mwepart id="745">once</mwepart> <mwepart id="745">every</mwepart> <mwepart id="745">minute</mwepart> , i <mwepart id="620">no</mwepart> <mwepart id="620">longer</mwepart> <mwepart id="620">have</mwepart> a moment 's rest .
+once every minute i light the lamp and put it out again ! ''
+`` that 's funny !
+where you live , a day only lasts a minute ! ''
+`` it 's not funny <mwepart id="66,67">at</mwepart> <mwepart id="66,67">all</mwepart> <mwepart id="67">!</mwepart> ''
+said the lamplighter .
+`` we 've already been speaking for a month . ''
+`` a month ? ''
+`` yes .
+thirty minutes .
+thirty days .
+<mwepart id="354">good</mwepart> <mwepart id="354">evening</mwepart> . ''
+and he lit his lamp again .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> watched him and felt that he loved this lamplighter who was so faithful to his orders .
+he remembered the sunsets which he himself had gone to seek in the past , by moving his chair .
+he wanted to help his friend .
+`` you know -- i know a way you can rest whenever you want ... '' `` i always want to , '' said the lamplighter .
+<mwepart id="303">for</mwepart> <mwepart id="303">it</mwepart> 's possible to be both faithful and lazy <mwepart id="77">at</mwepart> <mwepart id="77">the</mwepart> <mwepart id="77,764">same</mwepart> <mwepart id="77,764">time</mwepart> .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> went on : `` your planet is so small that you can go right round it in three strides .
+you only <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> walk along rather slowly to always <mwepart id="855">stay</mwepart> <mwepart id="855">in</mwepart> <mwepart id="855">the</mwepart> sun .
+when you want <mwepart id="908">to</mwepart> <mwepart id="908">rest</mwepart> , you can walk -- and the day will last <mwepart id="62">as</mwepart> <mwepart id="62">long</mwepart> <mwepart id="62">as</mwepart> <mwepart id="62">you</mwepart> like . ''
+`` that does n't do me much good , '' said the lamplighter .
+`` what i really <mwepart id="530">love</mwepart> <mwepart id="530">in</mwepart> <mwepart id="530">life</mwepart> is to sleep . ''
+`` that 's <mwepart id="85">bad</mwepart> <mwepart id="85">luck</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` that is <mwepart id="85">bad</mwepart> <mwepart id="85">luck</mwepart> , '' said the lamplighter .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> . ''
+and he put out his lamp .
+`` that man , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> to himself , as he continued further on his journey , `` that man would be despised by <mwepart id="1,1">all</mwepart> <mwepart id="1,1">the</mwepart> others : by the king , by the <mwepart id="192">conceited</mwepart> <mwepart id="192">man</mwepart> , by the drinker , and by the businessman .
+yet he 's the only one that does n't seem ridiculous to me .
+perhaps it 's because he thinks of <mwepart id="836">something</mwepart> <mwepart id="836">other</mwepart> than himself . ''
+he breathed a <mwepart id="804">sigh</mwepart> <mwepart id="804">of</mwepart> <mwepart id="804">regret</mwepart> , and said to himself : `` that man is the only one with who i could 've made friends .
+but his planet is really very small .
+there 's no room on it for two people .
+what the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> did n't dare admit to himself was that he missed this <mwepart id="131">blessed</mwepart> <mwepart id="131,693">planet</mwepart> <mwepart id="693">most</mwepart> of all because of the 1440 sunsets every day !
+the <mwepart id="817">sixth</mwepart> <mwepart id="817">planet</mwepart> was ten times larger than the last .
+it was inhabited by an <mwepart id="639">old</mwepart> <mwepart id="639">gentleman</mwepart> who wrote enormous books .
+`` oh , look !
+here comes an explorer ! ''
+he cried out when he caught sight of the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> sat <mwepart id="228">down</mwepart> <mwepart id="228">on</mwepart> the table and panted a little .
+he had already travelled <mwepart id="825">so</mwepart> <mwepart id="825">far</mwepart> <mwepart id="825">!</mwepart>
+`` where do you <mwepart id="175">come</mwepart> <mwepart id="175">from</mwepart> <mwepart id="175">?</mwepart> ''
+the <mwepart id="639">old</mwepart> <mwepart id="639">gentleman</mwepart> said to him .
+`` what 's that <mwepart id="121">big</mwepart> <mwepart id="121">book</mwepart> ? ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` what do you do here ? ''
+`` i am a geographer , '' said the <mwepart id="639">old</mwepart> <mwepart id="639">gentleman</mwepart> .
+`` what 's a geographer ? ''
+`` he is a scholar who knows the location of the seas , the rivers , the towns , the mountains , and the deserts . ''
+`` that 's very interesting , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` that really is , <mwepart id="73">at</mwepart> <mwepart id="73">last</mwepart> , a <mwepart id="724">real</mwepart> <mwepart id="724">profession</mwepart> ! ''
+and he glanced around at the <mwepart id="694">planet</mwepart> <mwepart id="694">of</mwepart> <mwepart id="694">the</mwepart> <mwepart id="694">geographer</mwepart> .
+he had never seen such a <mwepart id="540">majestic</mwepart> <mwepart id="540">planet</mwepart> before .
+`` your planet is very beautiful , '' he said .
+`` are there oceans ? ''
+`` i would n't know , '' said the geographer .
+`` oh . ''
+-lrb- the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> was disappointed . -rrb-
+`` and mountains ? ''
+`` i would n't know , '' said the geographer .
+`` and towns , and rivers , and deserts ? ''
+`` i would n't know that , either , '' said the geographer .
+`` but you 're a geographer ! ''
+`` that 's true , '' the geographer said , `` but i am not an explorer .
+i do n't have a <mwepart id="810">single</mwepart> <mwepart id="810">explorer</mwepart> .
+it is not for the geographer to count the towns , the rivers , the mountains , the seas , the oceans , and the deserts .
+the geographer is too important to go strolling about .
+he does n't leave his desk .
+but he receives the explorers .
+he asks them questions , and he writes down their recollections .
+and if any of their recollections seem interesting to him , the geographer orders an <mwepart id="435">inquiry</mwepart> <mwepart id="435">into</mwepart> <mwepart id="435">that</mwepart> <mwepart id="435">explorer</mwepart> 's <mwepart id="582">moral</mwepart> <mwepart id="582">character</mwepart> . ''
+`` why 's that ? ''
+`` because an explorer who told lies would <mwepart id="154">cause</mwepart> <mwepart id="154">havoc</mwepart> to geography books .
+so would an explorer who drank too much . ''
+`` why 's that ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` because intoxicated men see double .
+so the geographer would record two mountains in a place where there was only one . ''
+`` i <mwepart id="453">know</mwepart> <mwepart id="453">someone</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` who 'd make a <mwepart id="84">bad</mwepart> <mwepart id="84">explorer</mwepart> . ''
+`` that 's possible .
+so , when the <mwepart id="582">moral</mwepart> <mwepart id="160,582">character</mwepart> <mwepart id="160">of</mwepart> <mwepart id="160">the</mwepart> <mwepart id="160">explorer</mwepart> appears to <mwepart id="97">be</mwepart> <mwepart id="97">in</mwepart> <mwepart id="97">order</mwepart> , an inquiry is done into his discovery . ''
+`` you <mwepart id="344,346">go</mwepart> <mwepart id="344,346">to</mwepart> <mwepart id="346">see</mwepart> it ? ''
+`` no .
+that would be too complicated .
+but one requires the explorer to <mwepart id="714">provide</mwepart> <mwepart id="714">proof</mwepart> .
+if <mwepart id="301">for</mwepart> <mwepart id="301">example</mwepart> , the <mwepart id="220">discovery</mwepart> <mwepart id="220">in</mwepart> <mwepart id="220">question</mwepart> was of a <mwepart id="463">large</mwepart> <mwepart id="463">mountain</mwepart> , one would require that he <mwepart id="140">bring</mwepart> <mwepart id="140">back</mwepart> <mwepart id="140">large</mwepart> stones from it . ''
+the geographer suddenly became excited .
+`` but you -- you <mwepart id="178">come</mwepart> <mwepart id="178">from</mwepart> <mwepart id="178,276">far</mwepart> <mwepart id="276">away</mwepart> !
+you are an explorer !
+you must describe your planet to me ! ''
+and the geographer , having opened his <mwepart id="123">big</mwepart> <mwepart id="123">register</mwepart> , sharpened his pencil .
+the recitals of explorers are first recorded in pencil .
+one waits until the explorer has provided proof before recording them in ink .
+`` well ? ''
+said the geographer .
+`` oh , where i live , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` it 's not very interesting , everything is very small .
+i have three volcanoes .
+two active volcanoes , and one extinct one .
+but you never know . ''
+`` one never knows , '' said the geographer .
+`` i also have a flower . ''
+`` we do not record flowers , '' said the geographer .
+`` why 's that ?
+it 's the prettiest thing ! ''
+`` because flowers are ephemeral . ''
+`` what does that mean -- ` ephemeral ' ? ''
+`` geography books , '' said the geographer , `` of all books , are the most concerned with matters of consequence .
+they never become out-dated .
+it is very rare that a mountain changes position .
+it is very rare that an ocean empties itself of its water .
+we <mwepart id="961">write</mwepart> <mwepart id="961">about</mwepart> <mwepart id="961">eternal</mwepart> things . ''
+`` but <mwepart id="268">extinct</mwepart> <mwepart id="268">volcanoes</mwepart> can wake up , '' interrupted the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` what does ` ephemeral ' mean ? ''
+`` whether volcanoes are extinct or active is of no consequence to us , '' said the geographer .
+`` the thing that matters to us is the mountain .
+it does not change . ''
+`` but what does ` ephemeral ' mean ? ''
+repeated the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , who had never in his life <mwepart id="475">let</mwepart> <mwepart id="475">go</mwepart> <mwepart id="475">of</mwepart> <mwepart id="475">a</mwepart> question , once he had asked it .
+`` it means , ` which is at risk of <mwepart id="417">imminent</mwepart> <mwepart id="417">disappearance</mwepart> . ' ''
+`` is my <mwepart id="295">flower</mwepart> <mwepart id="295">at</mwepart> <mwepart id="295">risk</mwepart> of <mwepart id="417">imminent</mwepart> <mwepart id="417">disappearance</mwepart> ? ''
+`` of course . ''
+`` my flower is ephemeral , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> said to himself , `` and she has only four thorns to defend herself against the world .
+and i 've left her <mwepart id="36">all</mwepart> <mwepart id="36">alone</mwepart> on my planet ! ''
+that was his <mwepart id="288">first</mwepart> <mwepart id="288,578">moment</mwepart> <mwepart id="578">of</mwepart> <mwepart id="578">regret</mwepart> .
+but he took heart once again : `` what place would you advise me to visit ? ''
+he asked .
+`` the planet earth , '' replied the geographer .
+`` it has a <mwepart id="361">good</mwepart> <mwepart id="361">reputation</mwepart> ... '' and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> went away , thinking of his flower .
+so the <mwepart id="796">seventh</mwepart> <mwepart id="796">planet</mwepart> was the earth .
+the earth is n't just any <mwepart id="642">old</mwepart> <mwepart id="642">planet</mwepart> !
+it has 111 kings -lrb- not forgetting , of course , the negro kings amongst them -rrb- , 7000 geographers , 900,000 businessmen , 7,500,000 heavy drinkers , 311,000,000 conceited men , that 's to say , about 2,000,000,000 grownups .
+to give you an <mwepart id="414">idea</mwepart> <mwepart id="414">of</mwepart> <mwepart id="414">the</mwepart> <mwepart id="414,818">size</mwepart> <mwepart id="818">of</mwepart> <mwepart id="818">the</mwepart> <mwepart id="818">earth</mwepart> , i 'll tell you that before the <mwepart id="441">invention</mwepart> <mwepart id="441">of</mwepart> <mwepart id="441">electricity</mwepart> it was necessary to maintain , over the span of the six continents , a <mwepart id="929">veritable</mwepart> <mwepart id="929">army</mwepart> of 462,511 streetlamp lighters .
+seen from a distance it made a <mwepart id="956">wonderful</mwepart> <mwepart id="956">spectacle</mwepart> .
+the movements of this army were regulated like those of an opera ballet .
+first came the turn of the lamplighters of new zealand and australia .
+having set their lamps alight , they would <mwepart id="339">go</mwepart> <mwepart id="339">off</mwepart> <mwepart id="900">to</mwepart> <mwepart id="900">bed</mwepart> .
+next came the turn of the lamplighters of china and siberia to <mwepart id="256">enter</mwepart> <mwepart id="256">into</mwepart> <mwepart id="256">the</mwepart> dance .
+then they too would disappear into the wings .
+then came the turn of the lamplighters of russia and the indies .
+then those of africa and europe .
+then those of <mwepart id="15">south</mwepart> <mwepart id="15">america</mwepart> .
+then those of <mwepart id="8">north</mwepart> <mwepart id="8">america</mwepart> .
+and never would they make a mistake in their <mwepart id="661">order</mwepart> <mwepart id="661">of</mwepart> <mwepart id="259,661">entry</mwepart> <mwepart id="259">on</mwepart> <mwepart id="259">stage</mwepart> .
+it was magnificent .
+only the lamp lighter of the <mwepart id="812">single</mwepart> <mwepart id="812">lamp</mwepart> of the <mwepart id="9">north</mwepart> <mwepart id="9">pole</mwepart> , and his colleague at the <mwepart id="812">single</mwepart> <mwepart id="456,812">lamp</mwepart> <mwepart id="456">of</mwepart> <mwepart id="456">the</mwepart> <mwepart id="16,16,456">south</mwepart> <mwepart id="16,16">pole</mwepart> led lives of leisure : they worked twice a year .
+when one wants to be witty , it can happen that one bends the truth a little .
+i have n't been entirely honest in telling you about the lamplighters .
+i run the risk of giving a <mwepart id="274">false</mwepart> <mwepart id="274">idea</mwepart> of our planet to those who do n't know it .
+men take up very <mwepart id="497">little</mwepart> <mwepart id="497,846">space</mwepart> <mwepart id="846">on</mwepart> <mwepart id="846">the</mwepart> <mwepart id="846">earth</mwepart> .
+if the two billion people who inhabitant the earth were to stand upright and squash together a little , like for a meeting , they would easily fit on one <mwepart id="715">public</mwepart> <mwepart id="715">square</mwepart> twenty miles long and twenty miles wide .
+all humanity could be piled up on the smallest <mwepart id="11">pacific</mwepart> <mwepart id="11">islet</mwepart> .
+the grown-ups , of course , wo n't believe you .
+they picture themselves as taking up <mwepart id="22">a</mwepart> <mwepart id="22,528">lot</mwepart> <mwepart id="528">of</mwepart> <mwepart id="528">space</mwepart> .
+they think themselves as important as the baobabs .
+therefore you should advise them <mwepart id="902">to</mwepart> <mwepart id="902">do</mwepart> the math .
+they adore numbers , and that will please them .
+but do n't waste your <mwepart id="895">time</mwepart> <mwepart id="895">on</mwepart> <mwepart id="895">this</mwepart> <mwepart id="895">chore</mwepart> .
+there 's no point .
+you trust me .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , having arrived <mwepart id="647,647">on</mwepart> <mwepart id="647,647">earth</mwepart> , was very surprised not to <mwepart id="780">see</mwepart> <mwepart id="780">anyone</mwepart> .
+he had already started to worry that he 'd got the <mwepart id="962">wrong</mwepart> <mwepart id="962">planet</mwepart> , when a <mwepart id="581">moon-coloured</mwepart> <mwepart id="581">coil</mwepart> stirred <mwepart id="428">in</mwepart> <mwepart id="428">the</mwepart> <mwepart id="428">sand</mwepart> .
+`` <mwepart id="354">good</mwepart> <mwepart id="354">evening</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> courteously .
+`` <mwepart id="354">good</mwepart> <mwepart id="354">evening</mwepart> , '' said the snake .
+`` on what planet have i <mwepart id="174">come</mwepart> <mwepart id="174,228">down</mwepart> <mwepart id="174,228">on</mwepart> <mwepart id="174">?</mwepart> ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` onto earth , in africa , '' the snake answered .
+`` oh !
+... so there 's no one <mwepart id="647,647">on</mwepart> <mwepart id="647,647">earth</mwepart> ? ''
+`` this is the desert .
+there is no one in the deserts .
+the earth is large , '' said the snake .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> sat <mwepart id="228">down</mwepart> <mwepart id="228">on</mwepart> a stone , and raised his eyes toward the sky .
+`` i wonder , '' he said , `` if the stars are lit <mwepart id="828">so</mwepart> <mwepart id="828">that</mwepart> each of us can <mwepart id="653">one</mwepart> <mwepart id="653">day</mwepart> <mwepart id="653">find</mwepart> his own again .
+<mwepart id="513">look</mwepart> <mwepart id="513">at</mwepart> my planet .
+it 's <mwepart id="743">right</mwepart> <mwepart id="743">there</mwepart> above us ... but it 's <mwepart id="826">so</mwepart> <mwepart id="276,826">far</mwepart> <mwepart id="276,826">away</mwepart> ! ''
+`` it is beautiful , '' said the snake .
+`` what has brought you here ? ''
+`` i 've been having some <mwepart id="917">trouble</mwepart> <mwepart id="917">with</mwepart> <mwepart id="917">a</mwepart> <mwepart id="917">flower</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` ah ! ''
+said the snake .
+and they were silent .
+`` where are the men ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> <mwepart id="73">at</mwepart> <mwepart id="73">last</mwepart> .
+`` it 's a <mwepart id="128">bit</mwepart> <mwepart id="128">lonely</mwepart> in the desert ... '' `` it is also lonely amongst men , '' the snake said .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> gazed at him for a <mwepart id="509">long</mwepart> <mwepart id="509">time</mwepart> .
+`` you 're a <mwepart id="319">funny</mwepart> <mwepart id="319">animal</mwepart> , '' he said finally , `` as thin as a finger ... '' `` but i am more powerful than the <mwepart id="284">finger</mwepart> <mwepart id="284">of</mwepart> <mwepart id="284">a</mwepart> <mwepart id="284">king</mwepart> , '' said the snake .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> smiled .
+`` you 're not very powerful ... you have n't even got any legs ... you ca n't even travel ... '' `` i can carry you further than a ship , '' said the snake .
+he wrapped himself around the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> 's ankle , like a <mwepart id="348">golden</mwepart> <mwepart id="348">bracelet</mwepart> .
+`` whoever i touch , i send him back to the earth from which he came , '' he continued .
+`` but you are pure , and you <mwepart id="176">come</mwepart> <mwepart id="176">from</mwepart> <mwepart id="176">a</mwepart> star ... '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> made no reply .
+`` i feel sorry <mwepart id="305">for</mwepart> <mwepart id="305">you</mwepart> , so weak , on this earth made of granite .
+i can help you if someday you become too homesick for your planet .
+i can . ''
+`` oh !
+i understand <mwepart id="930">very</mwepart> <mwepart id="930">well</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` but why do you always speak in riddles ? ''
+`` i solve them all , '' said the snake .
+and they were silent .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> crossed the desert and met only with one flower .
+a flower with three petals , a <mwepart id="622">nondescript</mwepart> <mwepart id="622">flower</mwepart> belonging to no one .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the flower .
+`` where are the men ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> politely .
+the flower had once seen a caravan passing .
+`` men ?
+i think there exists six or seven of them .
+i saw them years ago .
+but you never know where to find them .
+they are blown <mwepart id="399">here</mwepart> <mwepart id="399">and</mwepart> <mwepart id="399">there</mwepart> <mwepart id="399">by</mwepart> the wind .
+they lack roots , it makes things very difficult for them '' `` goodbye , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` goodbye , '' said the flower .
+chapter xix the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> climbed a <mwepart id="400">high</mwepart> <mwepart id="400">mountain</mwepart> .
+the only mountains he 'd ever known were the three volcanoes that came <mwepart id="925">up</mwepart> <mwepart id="925">to</mwepart> his knees .
+and he used the <mwepart id="267">extinct</mwepart> <mwepart id="267,933">volcano</mwepart> <mwepart id="933">as</mwepart> <mwepart id="933">a</mwepart> <mwepart id="933">footstool</mwepart> .
+`` from a mountain as high as this one , '' he said to himself , `` i 'll be able to see the <mwepart id="257">entire</mwepart> <mwepart id="257">planet</mwepart> <mwepart id="37">all</mwepart> <mwepart id="37">at</mwepart> <mwepart id="37">once</mwepart> , <mwepart id="48">and</mwepart> <mwepart id="1,1,48">all</mwepart> <mwepart id="1,1,48">the</mwepart> people ... '' but he saw nothing but sharp needles of rock .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' he said courteously .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> ... <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> ... <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> ... , '' answered the echo .
+`` who are you ? ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` who are you ... who are you ... who are you ... ? ''
+answered the echo .
+`` be my friends .
+i 'm <mwepart id="36">all</mwepart> <mwepart id="36">alone</mwepart> , '' he said .
+`` i 'm <mwepart id="36">all</mwepart> <mwepart id="36">alone</mwepart> ... <mwepart id="36">all</mwepart> <mwepart id="36">alone</mwepart> ... <mwepart id="36">all</mwepart> <mwepart id="36">alone</mwepart> ... , '' answered the echo .
+`` what a <mwepart id="322">funny</mwepart> <mwepart id="322">planet</mwepart> ! ''
+he thought .
+`` it 's all dry , <mwepart id="46">and</mwepart> <mwepart id="46">all</mwepart> <mwepart id="46">jagged</mwepart> , <mwepart id="44">and</mwepart> <mwepart id="44">all</mwepart> <mwepart id="44">barren</mwepart> .
+and the people have no imagination .
+they repeat whatever you say to them ... on my planet i had a flower : she was always the first to speak ... ''
+but it happened that the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , having walked for a <mwepart id="509">long</mwepart> <mwepart id="509">time</mwepart> through the sands , rocks , and snow , <mwepart id="73">at</mwepart> <mwepart id="73">last</mwepart> came across a road .
+and all roads <mwepart id="471">lead</mwepart> <mwepart id="471">to</mwepart> the dwellings of men .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' he said .
+it was a garden covered in roses .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the roses .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> gazed at them .
+they all looked just like his flower .
+`` who are you ? ''
+he asked them , stunned .
+`` we 're roses , '' the roses said .
+`` oh ! ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> ... and he suddenly felt very unhappy .
+his flower had told him that she was the only one of her <mwepart id="445">kind</mwepart> <mwepart id="445">in</mwepart> <mwepart id="445">the</mwepart> <mwepart id="445">universe</mwepart> .
+and here were five thousand of them , all alike , in one <mwepart id="811">single</mwepart> <mwepart id="811">garden</mwepart> !
+`` she 'd be very upset , '' he said to himself , `` if she saw this ... she 'd cough and cough and <mwepart id="704">pretend</mwepart> <mwepart id="704">to</mwepart> <mwepart id="704">die</mwepart> to avoid being laughed at .
+and i 'd <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> <mwepart id="705">pretend</mwepart> <mwepart id="705">to</mwepart> <mwepart id="705">nurse</mwepart> her back to life , to humble myself also , because if i did n't , she really would allow herself to die ... '' then he said to himself : `` i thought i was rich , with a flower that was one of a kind , <mwepart id="43">and</mwepart> <mwepart id="43">all</mwepart> <mwepart id="43">i</mwepart> have is a common rose .
+that , and my three volcanoes that <mwepart id="189">come</mwepart> <mwepart id="189,925">up</mwepart> <mwepart id="189,905,925">to</mwepart> <mwepart id="189,905">my</mwepart> knees , of one which is perhaps forever extinct ; that does n't make me a very <mwepart id="368">great</mwepart> <mwepart id="368">prince</mwepart> .
+and lying in the grass , he started to cry .
+it was then that the fox appeared : `` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the fox .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' responded the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> politely , who then turned around , but saw nothing .
+`` i 'm <mwepart id="741">right</mwepart> <mwepart id="741">here</mwepart> , '' the voice said , `` under the <mwepart id="58">apple</mwepart> <mwepart id="58">tree</mwepart> ... '' `` who are you ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` you 're very pretty . ''
+`` i 'm a fox , '' the fox said .
+`` come and <mwepart id="696">play</mwepart> <mwepart id="696">with</mwepart> <mwepart id="696">me</mwepart> , '' proposed the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` i 'm so unhappy . ''
+`` i ca n't <mwepart id="697">play</mwepart> <mwepart id="697">with</mwepart> <mwepart id="697">you</mwepart> , '' said the fox .
+`` i 'm not tamed . ''
+`` oh !
+i 'm sorry , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+but , after some thought , he added : `` what does that mean -- ` tame ' ? ''
+`` you are n't from here , '' said the fox .
+`` what is it that you 're looking for ? ''
+`` i 'm looking for men , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` what does ` tame ' mean ? ''
+`` men , '' said the fox , `` they have guns , and they hunt .
+it 's very bothersome .
+they also raise chickens .
+it 's their <mwepart id="832">sole</mwepart> <mwepart id="832">interest</mwepart> .
+are you looking for chickens ? ''
+`` no , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` i 'm looking for friends .
+what does ` tame ' mean ? ''
+`` it 's something that 's too often forgotten , '' said the fox .
+`` it means ` to establish bonds .
+''' ``` to establish bonds ?
+''' `` that 's right , '' said the fox .
+`` to me , you 're still only a <mwepart id="482">little</mwepart> <mwepart id="482">boy</mwepart> , just like a hundred thousand other <mwepart id="483">little</mwepart> <mwepart id="483">boys</mwepart> .
+and i do n't need you .
+and you do n't need me either .
+to you , i 'm only a fox , just like a hundred thousand other foxes .
+but if you tame me , we 'll need <mwepart id="238">each</mwepart> <mwepart id="238">other</mwepart> .
+to me , you 'll be unique in the <mwepart id="258">entire</mwepart> <mwepart id="258">world</mwepart> .
+to you , i 'll be unique in the <mwepart id="258">entire</mwepart> <mwepart id="258">world</mwepart> ... '' `` i 'm beginning to understand , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` there 's a flower ... i think she 's tamed me ... '' `` it 's possible , '' said the fox .
+`` <mwepart id="647,647">on</mwepart> <mwepart id="647,647">earth</mwepart> you see <mwepart id="39">all</mwepart> <mwepart id="39">kinds</mwepart> <mwepart id="39">of</mwepart> things . ''
+`` oh , but she 's not <mwepart id="647,647">on</mwepart> <mwepart id="647,647">earth</mwepart> ! ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+the fox seemed very intrigued : `` on another planet ? ''
+`` are there hunters on that planet ? ''
+`` no . ''
+`` that 's interesting !
+and chickens ? ''
+`` no . ''
+`` nothing 's perfect , '' sighed the fox .
+but the fox came back to his idea .
+`` <mwepart id="603">my</mwepart> <mwepart id="603">life</mwepart> is very monotonous .
+i hunt chickens ; men hunt me .
+<mwepart id="1,1">all</mwepart> <mwepart id="1,1">the</mwepart> chickens look alike , <mwepart id="48">and</mwepart> <mwepart id="1,1,48">all</mwepart> <mwepart id="1,1,48">the</mwepart> men look alike .
+so i get a bit bored .
+but if you tame me , it would bring some sunlight into <mwepart id="603">my</mwepart> <mwepart id="603">life</mwepart> .
+i 'd <mwepart id="185">come</mwepart> <mwepart id="185">to</mwepart> <mwepart id="185">know</mwepart> a sound of footsteps unlike any other .
+other footsteps send me hurrying back underground .
+yours would call me <mwepart id="676">out</mwepart> <mwepart id="676">of</mwepart> my <mwepart id="143">burrow</mwepart> <mwepart id="143">like</mwepart> <mwepart id="143">music</mwepart> .
+and then look : you see the <mwepart id="948">wheat</mwepart> <mwepart id="948">fields</mwepart> down there ?
+i do n't <mwepart id="240">eat</mwepart> <mwepart id="240">bread</mwepart> .
+wheat is of <mwepart id="621">no</mwepart> <mwepart id="621">use</mwepart> to me .
+the <mwepart id="948">wheat</mwepart> <mwepart id="948">fields</mwepart> <mwepart id="559">mean</mwepart> <mwepart id="559">nothing</mwepart> to me .
+and that 's sad .
+but your hair is the <mwepart id="166">colour</mwepart> <mwepart id="166">of</mwepart> <mwepart id="166">gold</mwepart> .
+so it 'll be wonderful when you 've tamed me !
+the wheat , which is golden , will remind me of you .
+and i 'll love the <mwepart id="842">sound</mwepart> <mwepart id="842">of</mwepart> <mwepart id="842">the</mwepart> <mwepart id="842">wind</mwepart> blowing through the wheat ... '' the fox went silent and gazed at the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> for a <mwepart id="509">long</mwepart> <mwepart id="509">time</mwepart> .
+`` please ... tame me ! ''
+he said .
+`` i really want to , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> replied , `` but i do n't have <mwepart id="598">much</mwepart> <mwepart id="598">time</mwepart> .
+i have friends to discover , and many things to understand . ''
+`` one only understands the things that one tames , '' said the fox .
+`` men <mwepart id="620">no</mwepart> <mwepart id="620">longer</mwepart> <mwepart id="620">have</mwepart> the time to <mwepart id="330">get</mwepart> <mwepart id="330">to</mwepart> <mwepart id="330,450">know</mwepart> <mwepart id="450">anything</mwepart> .
+they buy things ready made in the shops .
+but as there are n't any shops that sell friends , men <mwepart id="620">no</mwepart> <mwepart id="620">longer</mwepart> <mwepart id="620">have</mwepart> any friends .
+if you want a friend , tame me .
+`` what should i do ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` you <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> be very patient , '' replied the fox .
+`` first you 'll <mwepart id="815">sit</mwepart> <mwepart id="815">down</mwepart> a <mwepart id="502">little</mwepart> <mwepart id="502">way</mwepart> away from me , like this , in the grass .
+i 'll watch you <mwepart id="676">out</mwepart> <mwepart id="676">of</mwepart> the corner of <mwepart id="602">my</mwepart> <mwepart id="602">eye</mwepart> and you wo n't <mwepart id="770">say</mwepart> <mwepart id="770">anything</mwepart> .
+words are a source of misunderstandings .
+but every day you 'll be able to sit a little closer ... '' the <mwepart id="611">next</mwepart> <mwepart id="611">day</mwepart> the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> came back .
+`` it would 've been better to <mwepart id="170">come</mwepart> <mwepart id="170">back</mwepart> <mwepart id="77,78">at</mwepart> <mwepart id="77,78">the</mwepart> <mwepart id="77,78,764">same</mwepart> <mwepart id="77,78,764,894">time</mwepart> <mwepart id="78,894">of</mwepart> <mwepart id="894">day</mwepart> , '' said the fox .
+`` if you come , <mwepart id="301">for</mwepart> <mwepart id="301">example</mwepart> , at four o'clock in the afternoon , from three o'clock i 'd start to feel happy .
+as the time got nearer , i 'd feel happier and happier .
+already by four o'clock , i 'd be jumping about and getting restless ; i 'd <mwepart id="186">come</mwepart> <mwepart id="186">to</mwepart> <mwepart id="186">learn</mwepart> the <mwepart id="709">price</mwepart> <mwepart id="709">of</mwepart> <mwepart id="709">happiness</mwepart> !
+but if you <mwepart id="169">come</mwepart> <mwepart id="169">at</mwepart> <mwepart id="169">just</mwepart> any time , i ` d never know at what time my heart should be ready to greet you ... we must observe the rites . ''
+`` what 's a rite ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` they are also something too often forgotten , '' said the fox .
+`` they are what make <mwepart id="652">one</mwepart> <mwepart id="205,652">day</mwepart> <mwepart id="205,652">different</mwepart> from other days , one <mwepart id="405">hour</mwepart> <mwepart id="405">different</mwepart> from other hours .
+there 's a rite , <mwepart id="301">for</mwepart> <mwepart id="301">example</mwepart> , among my hunters .
+on thursdays they dance with the girls of the village .
+so thursday is a <mwepart id="955">wonderful</mwepart> <mwepart id="955">day</mwepart> !
+i can <mwepart id="338">go</mwepart> <mwepart id="338">for</mwepart> <mwepart id="338">a</mwepart> walk <mwepart id="60">as</mwepart> <mwepart id="60">far</mwepart> <mwepart id="60">as</mwepart> the vineyards .
+if the hunters danced on just any day , <mwepart id="1,1">all</mwepart> <mwepart id="1,1">the</mwepart> days would be alike , and i 'd never have any rest . ''
+so the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> tamed the fox .
+and when the time to leave drew near ... `` oh , '' said the fox , `` i 'll cry . ''
+`` it 's your fault , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` i never wished you any harm ; but you wanted me to tame you ... '' `` i know , '' said the fox .
+`` but you 're going to cry ! ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` i know , '' said the fox .
+`` so all this has done you <mwepart id="616">no</mwepart> <mwepart id="616">good</mwepart> <mwepart id="66,67">at</mwepart> <mwepart id="66,67">all</mwepart> <mwepart id="67">!</mwepart> ''
+`` it has done me good , '' said the fox , `` because of the <mwepart id="167">colour</mwepart> <mwepart id="167">of</mwepart> <mwepart id="167">the</mwepart> <mwepart id="167">wheat</mwepart> . ''
+and then he added : `` go and see the roses again .
+you 'll understand that yours is unique in the <mwepart id="258">entire</mwepart> <mwepart id="258">world</mwepart> .
+then <mwepart id="170,171">come</mwepart> <mwepart id="170,171">back</mwepart> <mwepart id="171">to</mwepart> <mwepart id="771">say</mwepart> <mwepart id="771">goodbye</mwepart> to me , and i 'll make <mwepart id="967">you</mwepart> <mwepart id="967">a</mwepart> <mwepart id="703">present</mwepart> <mwepart id="703">of</mwepart> <mwepart id="703">a</mwepart> <mwepart id="703">secret</mwepart> . ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> went away to see the roses again : `` you are n't like my rose <mwepart id="66">at</mwepart> <mwepart id="66">all</mwepart> , you are nothing yet , '' he told them .
+no one has tamed you , and you have n't tamed anyone .
+you 're like my fox used to be .
+he was only a fox , just like a hundred thousand others .
+but i 've made him my friend , and now he 's unique in the <mwepart id="258">entire</mwepart> <mwepart id="258">world</mwepart> . ''
+and the roses were very embarrassed .
+`` you are beautiful , but you are empty , '' he went on .
+`` one could not <mwepart id="214">die</mwepart> <mwepart id="214,305">for</mwepart> <mwepart id="214,305">you</mwepart> .
+of course , an <mwepart id="663">ordinary</mwepart> <mwepart id="663">passer-by</mwepart> would think that my rose looked just like you .
+but she alone is more important than <mwepart id="40">all</mwepart> <mwepart id="40">of</mwepart> you : because it 's her that i watered ; because it 's her that i put under the glass dome ; because it 's her that i sheltered behind the screen ; because it 's for her that i killed the caterpillars -lrb- except two or three , to become butterflies -rrb- ; because it 's her that i listened to grumble , or boast , or even sometimes when she said nothing .
+because she 's my rose .
+and he went back to the fox : `` goodbye , '' he said .
+`` goodbye , '' said the fox .
+`` here 's my secret .
+it 's very simple : one only sees clearly with the heart .
+what is essential is invisible <mwepart id="909">to</mwepart> <mwepart id="909">the</mwepart> <mwepart id="909">eye</mwepart> . ''
+`` what is essential is invisible <mwepart id="909">to</mwepart> <mwepart id="909">the</mwepart> <mwepart id="909">eye</mwepart> , '' repeated the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , so as to remember .
+`` it is the time you have wasted on your rose that makes your rose so important . ''
+`` it is the time i have wasted on my rose ... '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , so as to remember .
+`` the men have forgotten this truth , '' said the fox .
+`` but you must not forget it .
+you become forever responsible for that which you have tamed .
+you are responsible for your rose ... '' `` i am responsible for my rose , '' repeated the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , so as to remember .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the railway switchman .
+`` what do you do here ? ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> asked .
+`` i sort travellers , in packs of a thousand , '' said the switchman .
+`` i dispatch the trains that carry them : sometimes to the right , sometimes to the left . ''
+and a brilliantly lit <mwepart id="265">express</mwepart> <mwepart id="265">train</mwepart> , rumbling like thunder , shook the switchman 's cabin .
+`` they really are in a hurry , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` what is it that they 're looking for ? ''
+`` not even the <mwepart id="507">locomotive</mwepart> <mwepart id="507">engineer</mwepart> knows that , '' said the switchman .
+a second brilliantly lit express thundered by in the <mwepart id="660">opposite</mwepart> <mwepart id="660">direction</mwepart> .
+`` are they back already ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` these are n't the same ones , '' said the switchman .
+`` it 's an exchange . ''
+`` were n't they happy where they were ? ''
+`` no one is ever happy where they are , '' said the switchman .
+a third brilliantly lit express thundered by .
+`` are they chasing after the first travellers ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` they are n't chasing after anything <mwepart id="66">at</mwepart> <mwepart id="66">all</mwepart> , '' said the switchman .
+`` they 're asleep in there , or if not , they 're yawning .
+only the children are squashing their noses <mwepart id="924">up</mwepart> <mwepart id="924">against</mwepart> the windows . ''
+`` only the children know what they 're after , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` they waste their <mwepart id="897">time</mwepart> <mwepart id="897">with</mwepart> <mwepart id="897">a</mwepart> <mwepart id="721,897">rag</mwepart> <mwepart id="721">doll</mwepart> and it becomes very important to them ; and if someone takes it away from them , they cry ... '' `` they 're lucky , '' said the switchman .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` <mwepart id="357">good</mwepart> <mwepart id="357">morning</mwepart> , '' said the merchant .
+this was a merchant who sold pills that had been created to <mwepart id="716">quench</mwepart> <mwepart id="716">thirst</mwepart> .
+you take one pill a week , and you <mwepart id="619">no</mwepart> <mwepart id="619">longer</mwepart> <mwepart id="619">feel</mwepart> the need to <mwepart id="235">drink</mwepart> <mwepart id="235">anything</mwepart> .
+`` why are you selling those ? ''
+asked the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` it 's a <mwepart id="124">big</mwepart> <mwepart id="124">time</mwepart> saver , '' said the merchant .
+`` experts have done calculations .
+you <mwepart id="769">save</mwepart> <mwepart id="769">fifty-three</mwepart> minutes per week . ''
+`` and what do i <mwepart id="224">do</mwepart> <mwepart id="224">with</mwepart> <mwepart id="224">the</mwepart> fifty-three minutes ? ''
+`` you <mwepart id="149">can</mwepart> <mwepart id="149,221">do</mwepart> <mwepart id="149,221">anything</mwepart> you like with them ... '' `` myself , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> said to himself , `` if i had fifty-three minutes to spend as i liked , i 'd walk very slowly toward a spring of <mwepart id="312">fresh</mwepart> <mwepart id="312">water</mwepart> . ''
+we were at the <mwepart id="246">eighth</mwepart> <mwepart id="246">day</mwepart> since my <mwepart id="29">accident</mwepart> <mwepart id="29">in</mwepart> <mwepart id="29">the</mwepart> <mwepart id="29">desert</mwepart> , and i 'd listened to the <mwepart id="858">story</mwepart> <mwepart id="858">of</mwepart> <mwepart id="858">the</mwepart> <mwepart id="858">merchant</mwepart> as i drank the <mwepart id="466">last</mwepart> <mwepart id="466">drop</mwepart> of my <mwepart id="942">water</mwepart> <mwepart id="942">supply</mwepart> .
+`` ah , '' i said to the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` these memories of yours are very charming ; but i have n't managed to repair my plane yet , i <mwepart id="384">have</mwepart> <mwepart id="384">nothing</mwepart> left to drink , and i , too , would be happy if i could walk slowly towards a spring of <mwepart id="312">fresh</mwepart> <mwepart id="312">water</mwepart> ! ''
+`` my friend the fox -- '' he said to me .
+`` my <mwepart id="206">dear</mwepart> <mwepart id="206">fellow</mwepart> , our situation has nothing <mwepart id="902">to</mwepart> <mwepart id="224,902">do</mwepart> <mwepart id="224">with</mwepart> <mwepart id="224">the</mwepart> fox anymore ! ''
+`` why not ? ''
+`` because we will <mwepart id="215">die</mwepart> <mwepart id="215">of</mwepart> <mwepart id="215">thirst</mwepart> .
+he did n't follow my reasoning , and he answered me : `` it 's nice to have had a friend , even if you 're <mwepart id="25">about</mwepart> <mwepart id="25">to</mwepart> die .
+myself , i 'm glad to have had a <mwepart id="310">fox</mwepart> <mwepart id="310">as</mwepart> <mwepart id="310">a</mwepart> <mwepart id="310">friend</mwepart> ... '' `` he never considers the danger , '' i said to myself .
+`` he 's never been hungry or thirsty .
+a <mwepart id="498">little</mwepart> <mwepart id="498">sunshine</mwepart> is all he needs ... '' but he looked at me and replied <mwepart id="905">to</mwepart> <mwepart id="905">my</mwepart> thought : `` i 'm also thirsty .
+let 's <mwepart id="514,515">look</mwepart> <mwepart id="514,515">for</mwepart> <mwepart id="514,515">a</mwepart> <mwepart id="515">well</mwepart> .
+i made a <mwepart id="325">gesture</mwepart> <mwepart id="325">of</mwepart> <mwepart id="325">weariness</mwepart> : it 's absurd to <mwepart id="514,515">look</mwepart> <mwepart id="514,515">for</mwepart> <mwepart id="514,515">a</mwepart> <mwepart id="515">well</mwepart> , <mwepart id="75">at</mwepart> <mwepart id="75">random</mwepart> , in the <mwepart id="416">immensity</mwepart> <mwepart id="416">of</mwepart> <mwepart id="416">the</mwepart> <mwepart id="416">desert</mwepart> .
+but we started walking anyway .
+when we had walked for hours in silence , night fell , and the stars began to <mwepart id="182">come</mwepart> <mwepart id="182">out</mwepart> .
+i saw them <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> in a dream , as my thirst had made me feverish .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> 's words danced in my memory : `` so you 're also thirsty ? ''
+i asked him .
+but he did n't <mwepart id="733">reply</mwepart> <mwepart id="733,905">to</mwepart> <mwepart id="733,905">my</mwepart> question .
+he said simply : `` <mwepart id="940">water</mwepart> <mwepart id="940">can</mwepart> <mwepart id="94">be</mwepart> <mwepart id="94,355">good</mwepart> <mwepart id="94,355">for</mwepart> <mwepart id="94">the</mwepart> heart too ... '' i did n't understand his answer , but i said nothing .
+i knew better than to press my questions .
+he was tired .
+he sat down .
+i sat down beside him .
+and , after a silence , he spoke again : `` the stars are beautiful because of a flower that ca n't be seen . ''
+i replied , `` that 's true . ''
+and i looked , without saying anything , at the folds of <mwepart id="768">sand</mwepart> <mwepart id="768">in</mwepart> <mwepart id="768">the</mwepart> <mwepart id="768">moonlight</mwepart> .
+`` the desert is beautiful , '' the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> added .
+and it was true .
+i have always loved the desert .
+you <mwepart id="815">sit</mwepart> <mwepart id="228,815">down</mwepart> <mwepart id="228">on</mwepart> a <mwepart id="767">sand</mwepart> <mwepart id="767">dune</mwepart> .
+you <mwepart id="781">see</mwepart> <mwepart id="781">nothing</mwepart> .
+you <mwepart id="394">hear</mwepart> <mwepart id="394">nothing</mwepart> .
+and yet something radiates forth in the silence ... `` what makes the <mwepart id="210">desert</mwepart> <mwepart id="210">beautiful</mwepart> , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` is that somewhere it hides a well ... '' i was surprised to suddenly understand this <mwepart id="605">mysterious</mwepart> <mwepart id="605">radiation</mwepart> of the sands .
+when i was a <mwepart id="482">little</mwepart> <mwepart id="482">boy</mwepart> i lived in an <mwepart id="640">old</mwepart> <mwepart id="640">house</mwepart> , and legend told that a treasure was buried there .
+of course , no one had ever been able to find it , or perhaps no one had even looked <mwepart id="303">for</mwepart> <mwepart id="303">it</mwepart> .
+but it cast an <mwepart id="250">enchantment</mwepart> <mwepart id="250">over</mwepart> <mwepart id="250">that</mwepart> <mwepart id="250">house</mwepart> .
+my home was hiding a secret in the depths of its heart ... `` yes , '' i said to the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` whether the house , the stars , or the desert , what gives them their beauty is <mwepart id="834">something</mwepart> <mwepart id="834">invisible</mwepart> ! ''
+`` i 'm glad , '' he said , `` that you <mwepart id="34">agree</mwepart> <mwepart id="34">with</mwepart> <mwepart id="34">my</mwepart> fox . ''
+as the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> fell asleep , i took him in my arms and set out walking again .
+i felt deeply moved .
+it seemed to me that i was carrying a very <mwepart id="311">fragile</mwepart> <mwepart id="311">treasure</mwepart> .
+it even seemed to me that there was nothing more fragile <mwepart id="647,647">on</mwepart> <mwepart id="647,647">earth</mwepart> .
+i looked in the moonlight at his <mwepart id="680">pale</mwepart> <mwepart id="680">forehead</mwepart> , his closed eyes , his locks of hair that trembled <mwepart id="429">in</mwepart> <mwepart id="429">the</mwepart> <mwepart id="429">wind</mwepart> , and i said to myself : `` what i see here is only a shell .
+that which is most important is invisible ... '' as his slightly parted lips gave way to a half-smile , i continued : `` what i find so deeply moving about this <mwepart id="496">little</mwepart> <mwepart id="496">sleeping</mwepart> prince is his devotion to a flower ; it 's the <mwepart id="415">image</mwepart> <mwepart id="415">of</mwepart> <mwepart id="415">a</mwepart> <mwepart id="415">rose</mwepart> that shines in him like the <mwepart id="293">flame</mwepart> <mwepart id="293">of</mwepart> <mwepart id="293">a</mwepart> <mwepart id="293">lamp</mwepart> , even when he 's sleeping .
+and i came to <mwepart id="885">think</mwepart> <mwepart id="885">of</mwepart> <mwepart id="885">him</mwepart> as even more fragile .
+one has to look after lamps : a <mwepart id="372">gust</mwepart> <mwepart id="372">of</mwepart> <mwepart id="372">wind</mwepart> can put them out ... and , continuing to walk , i found the <mwepart id="944">well</mwepart> <mwepart id="944">at</mwepart> <mwepart id="944">daybreak</mwepart> .
+`` men , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` stuff themselves into <mwepart id="266">express</mwepart> <mwepart id="266">trains</mwepart> , but they do n't know what they 're looking for .
+so they rush about , and <mwepart id="342">go</mwepart> <mwepart id="342">round</mwepart> in circles ... '' and he added : `` it 's not <mwepart id="959">worth</mwepart> <mwepart id="959">it</mwepart> ... '' the well that we had reached was n't like the other wells of the sahara .
+the wells of the sahara are mere holes dug <mwepart id="428">in</mwepart> <mwepart id="428">the</mwepart> <mwepart id="428">sand</mwepart> .
+this one looked like a village well .
+but there was no village there , and i thought i was dreaming .
+`` it 's strange , '' i said to the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` everything 's been prepared : the pulley , the bucket , and the rope ... '' he laughed , took the rope , and put the pulley to work .
+and the pulley moaned like an <mwepart id="646">old</mwepart> <mwepart id="646">weathervane</mwepart> when there has long been no wind .
+`` can you hear that ? ''
+said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` we 've woken up the well , and it 's singing ... '' i did n't want him to tire himself out .
+`` let me do it , '' i said , `` it 's too heavy <mwepart id="305">for</mwepart> <mwepart id="305">you</mwepart> . ''
+i hoisted the bucket slowly to <mwepart id="882">the</mwepart> <mwepart id="882">edge</mwepart> of the well and set it down <mwepart id="353">good</mwepart> <mwepart id="353">and</mwepart> level .
+the <mwepart id="837">song</mwepart> <mwepart id="837">of</mwepart> <mwepart id="837">the</mwepart> <mwepart id="837">pulley</mwepart> continued in my ears , and in the still trembling water i could see the sunlight shimmer .
+`` i 'm thirsty for this water , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> .
+`` give me some to drink ... '' and i knew then what he 'd been looking for !
+i raised the bucket to his lips .
+he drank , his eyes closed .
+it was as sweet as some <mwepart id="850">special</mwepart> <mwepart id="850">festival</mwepart> treat .
+this water was something very different from <mwepart id="662">ordinary</mwepart> <mwepart id="662">nourishment</mwepart> .
+it was born of the walk under the stars , of the <mwepart id="837">song</mwepart> <mwepart id="837">of</mwepart> <mwepart id="837">the</mwepart> <mwepart id="837">pulley</mwepart> , of the effort of my arms .
+it was <mwepart id="355">good</mwepart> <mwepart id="355">for</mwepart> the heart , like a present .
+when i was a <mwepart id="482">little</mwepart> <mwepart id="482">boy</mwepart> , the lights of the <mwepart id="3">christmas</mwepart> <mwepart id="3">tree</mwepart> , the <mwepart id="601">music</mwepart> <mwepart id="601">of</mwepart> <mwepart id="601">the</mwepart> <mwepart id="601">midnight</mwepart> mass , the tenderness in the smiles produced , in a <mwepart id="807">similar</mwepart> <mwepart id="807">way</mwepart> , the <mwepart id="718">radiance</mwepart> <mwepart id="718">of</mwepart> <mwepart id="718">the</mwepart> <mwepart id="718">gift</mwepart> that i received .
+`` the men where you live , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , `` grow five thousand roses in a <mwepart id="811">single</mwepart> <mwepart id="811">garden</mwepart> ... and they do n't find what they 're looking for in it . ''
+`` they do n't find it , '' i replied .
+`` and yet what they 're looking for could be found in a <mwepart id="813">single</mwepart> <mwepart id="813">rose</mwepart> , or in a <mwepart id="501">little</mwepart> <mwepart id="501">water</mwepart> ... '' `` that 's true , '' i said .
+and the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> added : `` but the eyes are blind .
+you <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> search with the heart ... '' i had drunk the water .
+i breathed easily .
+the <mwepart id="766">sand</mwepart> <mwepart id="766">at</mwepart> <mwepart id="766">sunrise</mwepart> is the <mwepart id="165">color</mwepart> <mwepart id="165">of</mwepart> <mwepart id="165">honey</mwepart> .
+this honey color was also making me feel good .
+why then did i <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> have this <mwepart id="788">sense</mwepart> <mwepart id="788">of</mwepart> <mwepart id="788">grief</mwepart> ... `` you <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> keep your promise , '' said the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> softly , who had again sat down beside me .
+`` what promise ?
+`` you know ... a muzzle for my sheep ... i 'm responsible for this flower ... '' i took my sketches <mwepart id="676">out</mwepart> <mwepart id="676">of</mwepart> my pocket .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> saw them , and laughed as he said : `` your baobabs-they look a bit like cabbages . ''
+`` oh ! ''
+and i 'd been so proud of my baobabs !
+`` your fox ... his ears ... they look a bit like horns ... and they 're too long ! ''
+and he laughed again .
+`` you are n't being fair , my <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> .
+i do n't know how to <mwepart id="230">draw</mwepart> <mwepart id="54,230">anything</mwepart> <mwepart id="54">except</mwepart> <mwepart id="54,133">boa</mwepart> <mwepart id="133">constrictors</mwepart> , closed and open . ''
+`` oh , it 'll be all ok , '' he said , `` children understand . ''
+so i made a pencil <mwepart id="819">sketch</mwepart> <mwepart id="819">of</mwepart> <mwepart id="819">a</mwepart> <mwepart id="819">muzzle</mwepart> .
+and i felt a pang in my heart as i gave it to him .
+`` you have plans that i do n't know about ... '' but he did n't respond .
+he said to me : `` you know , my descent to earth ... tomorrow will be its anniversary . ''
+then after a silence he went on : `` i came down very near here . ''
+and he blushed .
+and once again , without understanding why , i felt a <mwepart id="687">peculiar</mwepart> <mwepart id="687,790">sense</mwepart> <mwepart id="790">of</mwepart> <mwepart id="790">sorrow</mwepart> .
+one question occurred to me however : `` so it was n't <mwepart id="148">by</mwepart> <mwepart id="148,155">chance</mwepart> <mwepart id="148,155">that</mwepart> <mwepart id="155">the</mwepart> <mwepart id="155">morning</mwepart> i first met you , a week ago , you were out walking like that , <mwepart id="36">all</mwepart> <mwepart id="36">alone</mwepart> , a thousand miles from any inhabited region ?
+you were going back to the place where you landed ? ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> blushed again .
+and i added , hesitantly : `` perhaps because of the anniversary ... ? ''
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> blushed once more .
+he never answered questions , but when you blush , that means ` yes , ' does n't it ?
+`` oh , '' i said to him , `` i 'm worried -- '' but he responded : `` now you must work .
+you must <mwepart id="337">go</mwepart> <mwepart id="337">back</mwepart> <mwepart id="337">to</mwepart> <mwepart id="337">your</mwepart> engine .
+i 'll <mwepart id="935">wait</mwepart> <mwepart id="305,935">for</mwepart> <mwepart id="305,935">you</mwepart> here .
+<mwepart id="170">come</mwepart> <mwepart id="81,170">back</mwepart> <mwepart id="81,912">tomorrow</mwepart> <mwepart id="912">evening</mwepart> .
+but i was n't reassured .
+i remembered the fox .
+you run the risk of weeping a little , if you allow yourself to be tamed ...
+there was , <mwepart id="614">next</mwepart> <mwepart id="614">to</mwepart> the well , the ruin of an <mwepart id="645">old</mwepart> <mwepart id="645,857">stone</mwepart> <mwepart id="857">wall</mwepart> .
+when i came back from my work , the <mwepart id="612">next</mwepart> <mwepart id="612">evening</mwepart> , i saw from a distance my <mwepart id="492">little</mwepart> <mwepart id="492">price</mwepart> sitting <mwepart id="649,650">on</mwepart> <mwepart id="649,650">top</mwepart> <mwepart id="636,649,650">of</mwepart> <mwepart id="636,650">it</mwepart> , his feet hanging down .
+and i heard him say : `` do n't you remember then ? ''
+he said .
+`` this is n't the <mwepart id="263">exact</mwepart> <mwepart id="263">spot</mwepart> . ''
+another voice must have answered him , because he replied : `` yes , yes !
+it 's the <mwepart id="740">right</mwepart> <mwepart id="740">day</mwepart> , but this is n't the <mwepart id="742">right</mwepart> <mwepart id="742">place</mwepart> . ''
+i continued my <mwepart id="937">walk</mwepart> <mwepart id="937">toward</mwepart> <mwepart id="937">the</mwepart> <mwepart id="937">wall</mwepart> .
+i still did n't see or <mwepart id="392">hear</mwepart> <mwepart id="392">anyone</mwepart> .
+yet the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> replied again : '' ... that 's right .
+you 'll see where my tracks begin <mwepart id="428">in</mwepart> <mwepart id="428">the</mwepart> <mwepart id="428">sand</mwepart> .
+you just <mwepart id="390">have</mwepart> <mwepart id="390">to</mwepart> wait there for me .
+i 'll be there tonight ... '' i was twenty meters from the wall , and i still saw nothing .
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> spoke again , after a pause : `` do you have <mwepart id="359">good</mwepart> <mwepart id="359">poison</mwepart> ?
+are you sure you wo n't make me suffer too long ? ''
+i froze , my heart skipped a beat ; but i still did n't understand .
+`` now go away , '' he said , `` i want to <mwepart id="173">come</mwepart> <mwepart id="173">down</mwepart> <mwepart id="173">from</mwepart> <mwepart id="173">here</mwepart> . ''
+i then lowered my eyes to the <mwepart id="300">foot</mwepart> <mwepart id="300">of</mwepart> <mwepart id="300">the</mwepart> <mwepart id="300">wall</mwepart> , and i leapt up !
+<mwepart id="743">right</mwepart> <mwepart id="743">there</mwepart> , facing the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> was one of those yellow snakes that can kill you in thirty seconds flat .
+<mwepart id="262">even</mwepart> <mwepart id="262">as</mwepart> <mwepart id="262">i</mwepart> dug around in my pocket to take out my revolver , i made a running <mwepart id="856">step</mwepart> <mwepart id="856">back</mwepart> .
+but , at the noise i made , the snake let himself flow easily across the sand , like the dying <mwepart id="852">spray</mwepart> <mwepart id="852">of</mwepart> <mwepart id="852">a</mwepart> <mwepart id="852">fountain</mwepart> , and in no <mwepart id="56">apparent</mwepart> <mwepart id="56">hurry</mwepart> , slipped between the stones with a light <mwepart id="563">metallic</mwepart> <mwepart id="563">sound</mwepart> .
+i reached the wall just <mwepart id="432">in</mwepart> <mwepart id="432">time</mwepart> <mwepart id="432">to</mwepart> <mwepart id="432">catch</mwepart> my <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> in my arms , who was <mwepart id="949">white</mwepart> <mwepart id="949">as</mwepart> <mwepart id="949">snow</mwepart> .
+`` what 's going on here ?
+why are you talking with snakes ? ''
+i 'd loosened the <mwepart id="351">golden</mwepart> <mwepart id="351">muffler</mwepart> that he always wore .
+i 'd moistened his temples and had him drink .
+and now i did n't dare ask him anything more .
+he looked at me gravely and put his arms around my neck .
+i felt his heart beat like the heart of a dying bird , when shot with a rifle .
+he said to me : `` i 'm glad that you 've found what was wrong with your engine .
+now you 'll be able to go <mwepart id="80">back</mwepart> <mwepart id="80">home</mwepart> -- '' `` how did <mwepart id="968">you</mwepart> <mwepart id="968">know</mwepart> <mwepart id="968">!</mwepart> ''
+i was just coming to tell him that , against all odds , my work had been successful .
+he made no <mwepart id="51">answer</mwepart> <mwepart id="51,905">to</mwepart> <mwepart id="51,905">my</mwepart> question , but he added : `` i 'm also going <mwepart id="80">back</mwepart> <mwepart id="80,404">home</mwepart> <mwepart id="404">today</mwepart> ... '' then he said sadly : `` it 's <mwepart id="22">a</mwepart> <mwepart id="22">lot</mwepart> further ... it 's much more difficult ... '' i felt very clearly that <mwepart id="833">something</mwepart> <mwepart id="833">extraordinary</mwepart> was happening .
+i held him tightly in my arms like a <mwepart id="822">small</mwepart> <mwepart id="822">child</mwepart> ; and yet it seemed to me that he was plummeting down into an abyss , and that i could <mwepart id="223">do</mwepart> <mwepart id="223">nothing</mwepart> to restrain him ... he had a <mwepart id="793">serious</mwepart> <mwepart id="793">look</mwepart> , <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> lost <mwepart id="276">far</mwepart> <mwepart id="276">away</mwepart> .
+`` i have your sheep .
+and i have the <mwepart id="136">box</mwepart> <mwepart id="136">for</mwepart> <mwepart id="136">the</mwepart> <mwepart id="136">sheep</mwepart> .
+and i have the muzzle ... '' and he smiled sadly .
+i waited a <mwepart id="510">long</mwepart> <mwepart id="510">while</mwepart> .
+i could feel that he was reviving little by little .
+`` my <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> , '' i said to him , `` you 're afraid ... '' he was afraid , of course .
+but he laughed softly : `` i 'll be much more afraid this evening ... '' again i felt myself frozen by the <mwepart id="789">sense</mwepart> <mwepart id="789">of</mwepart> <mwepart id="789,835">something</mwepart> <mwepart id="835">irreparable</mwepart> .
+and i knew that i could n't bear <mwepart id="883">the</mwepart> <mwepart id="883">idea</mwepart> of never hearing that laughter again .
+for me , it was like a spring of <mwepart id="312">fresh</mwepart> <mwepart id="312,941">water</mwepart> <mwepart id="941">in</mwepart> <mwepart id="941">the</mwepart> <mwepart id="941">desert</mwepart> .
+`` <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> , '' i said , `` i want to hear you laugh again . ''
+but he said to me : `` tonight , it 'll be a year .
+my star will be right above the spot where i came <mwepart id="229">down</mwepart> <mwepart id="229">to</mwepart> <mwepart id="229">earth</mwepart> , a year ago ... '' `` <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> , is this all a <mwepart id="83">bad</mwepart> <mwepart id="83">dream-this</mwepart> <mwepart id="146">business</mwepart> <mwepart id="146">with</mwepart> <mwepart id="146">the</mwepart> <mwepart id="146">snake</mwepart> , and the meeting-place , and the star ... ? ''
+but he did n't answer my question .
+he said to me : `` that which is important ca n't be seen ... '' `` i know ... '' `` it 's like with the flower .
+if you love a flower that 's on a star , it 's sweet to <mwepart id="513">look</mwepart> <mwepart id="513">at</mwepart> the <mwepart id="820">sky</mwepart> <mwepart id="820">at</mwepart> <mwepart id="820">night</mwepart> .
+<mwepart id="1,1">all</mwepart> <mwepart id="1,1">the</mwepart> stars are covered with flowers ... '' `` i know ... '' `` it 's like with the water .
+the water you gave me to drink was like music , because of the pulley , and the rope ... you remember ... it was good . ''
+`` i know . ''
+`` at night you 'll <mwepart id="513">look</mwepart> <mwepart id="513">at</mwepart> the stars .
+where i <mwepart id="503">live</mwepart> <mwepart id="503">everything</mwepart> is too small for me to <mwepart id="698">point</mwepart> <mwepart id="698">out</mwepart> <mwepart id="698">to</mwepart> you where my star is .
+it 's better like that .
+my star will <mwepart id="93">be</mwepart> <mwepart id="93,305">for</mwepart> <mwepart id="93,305">you</mwepart> just one of the stars .
+so you 'll love to <mwepart id="513">look</mwepart> <mwepart id="66,513">at</mwepart> <mwepart id="40,66">all</mwepart> <mwepart id="40">of</mwepart> the stars ... they 'll all be your friends .
+and , besides , i 'm going to make <mwepart id="967">you</mwepart> <mwepart id="967">a</mwepart> present ... '' he laughed again .
+`` ah , <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> , dear <mwepart id="486">little</mwepart> <mwepart id="486">fellow</mwepart> !
+i love to hear that laugh ! ''
+`` that 's my present .
+just that .
+it 'll be like with the water ... '' `` what are you trying to say ? ''
+`` everyone has the same stars , but they are <mwepart id="627">not</mwepart> <mwepart id="627">the</mwepart> same to everyone .
+for some , who are travelers , the stars are guides .
+for others they are nothing but little lights .
+for others , who are scholars , they are problems .
+for my businessman they were wealth .
+but none of these stars <mwepart id="770">say</mwepart> <mwepart id="770">anything</mwepart> back .
+you will have the stars as no one else has them ... '' `` what are you trying to say ? ''
+`` when you <mwepart id="513">look</mwepart> <mwepart id="513">at</mwepart> the <mwepart id="820">sky</mwepart> <mwepart id="820">at</mwepart> <mwepart id="820">night</mwepart> , because i 'll be living on one of them , because i 'll be laughing on one of them , <mwepart id="305">for</mwepart> <mwepart id="305">you</mwepart> it 'll be like <mwepart id="1,1">all</mwepart> <mwepart id="1,1">the</mwepart> stars are laughing .
+you-only you-will have stars that can laugh ! ''
+and he laughed again .
+`` and when your sorrow is comforted -lrb- time heals all wounds -rrb- you 'll be glad to have known me .
+you 'll always be my friend .
+you 'll want to laugh with me .
+and sometimes , you 'll open your window , just like that , <mwepart id="302">for</mwepart> <mwepart id="302">fun</mwepart> ... and your friends will be very surprised to see you laughing whilst watching the sky .
+so you 'll tell them , `` yes , the stars always make me laugh ! ''
+and they 'll think you 're crazy .
+i will have played <mwepart id="20">a</mwepart> <mwepart id="20,219">dirty</mwepart> <mwepart id="20,219">trick</mwepart> <mwepart id="20">on</mwepart> you ... and he laughed again .
+`` it ` ll be <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> i 'd given you , instead of stars , lots and lots of little bells that can laugh ... '' and he laughed some more .
+then he suddenly became serious again : `` tonight ... you know ... do n't come . ''
+`` i wo n't leave you . ''
+`` it 'll look <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> i 'm suffering ... it 'll look a bit <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> i 'm dying .
+it 's like that .
+do n't <mwepart id="187">come</mwepart> <mwepart id="187">to</mwepart> <mwepart id="187">see</mwepart> that .
+it 's not <mwepart id="959">worth</mwepart> <mwepart id="959">it</mwepart> ... '' `` i wo n't leave you . ''
+but he was worried .
+`` i 'm telling you this -- it 's also because of the snake .
+he must n't bite you ... snakes are mean .
+they can bite you just <mwepart id="302">for</mwepart> <mwepart id="302">fun</mwepart> ... '' `` i wo n't leave you . ''
+but something reassured him : `` it 's true that they have no poison left for a <mwepart id="775">second</mwepart> <mwepart id="775">bite</mwepart> . ''
+that night i did n't see him set out .
+he got away without making a sound .
+when i managed to catch him up , he was walking along determinedly , at a <mwepart id="141">brisk</mwepart> <mwepart id="141">pace</mwepart> .
+he said to me only : `` oh !
+you came ... '' and he took me by the hand .
+but he was still worrying .
+`` you 've made a mistake .
+you 'll suffer .
+it 'll look <mwepart id="61">as</mwepart> <mwepart id="61">if</mwepart> i 'm dead , and that wo n't be true ... '' i said nothing .
+`` you understand .
+it 's too far .
+i ca n't carry this body with me .
+it 's too heavy . ''
+i said nothing .
+`` but it 'll be like an old <mwepart id="24">abandoned</mwepart> <mwepart id="24">shell</mwepart> .
+there 's <mwepart id="631">nothing</mwepart> <mwepart id="631">sad</mwepart> about old shells ... '' i said nothing .
+he got a bit discouraged .
+but he made one <mwepart id="584">more</mwepart> <mwepart id="584">effort</mwepart> : `` you know , it 'll be nice .
+i 'll also <mwepart id="513">look</mwepart> <mwepart id="513">at</mwepart> the stars .
+<mwepart id="1,1">all</mwepart> <mwepart id="1,1">the</mwepart> stars will be wells with a <mwepart id="751">rusty</mwepart> <mwepart id="751">pulley</mwepart> .
+<mwepart id="1,1">all</mwepart> <mwepart id="1,1">the</mwepart> stars will <mwepart id="700">pour</mwepart> <mwepart id="700">out</mwepart> <mwepart id="312">fresh</mwepart> <mwepart id="312">water</mwepart> for me to drink ... '' i said nothing .
+`` it 'll be <mwepart id="827">so</mwepart> <mwepart id="594,827">much</mwepart> <mwepart id="594">fun</mwepart> !
+you 'll have five hundred million little bells , and i 'll have five hundred million springs of <mwepart id="312">fresh</mwepart> <mwepart id="312">water</mwepart> ... '' and then he too was silent , because he was crying .
+`` here 's the place .
+let me <mwepart id="340">go</mwepart> <mwepart id="340">on</mwepart> <mwepart id="340">by</mwepart> myself . ''
+and he sat down because he was afraid .
+he said : `` you know-my flower ... i 'm responsible for her .
+and she 's so weak !
+and she 's so naïve !
+she has four thorns , of <mwepart id="621">no</mwepart> <mwepart id="621">use</mwepart> <mwepart id="66">at</mwepart> <mwepart id="66">all</mwepart> , to protect herself against the <mwepart id="258">entire</mwepart> <mwepart id="258">world</mwepart> ... '' i sat down too because i was <mwepart id="618">no</mwepart> <mwepart id="618">longer</mwepart> <mwepart id="618">able</mwepart> to stand .
+he said : `` there ... that 's everything ... '' he hesitated a bit , and then stood <mwepart id="82">back</mwepart> <mwepart id="82">up</mwepart> .
+he took one step .
+i could n't move .
+there was nothing but a <mwepart id="965">yellow</mwepart> <mwepart id="965">flash</mwepart> close to his ankle .
+he remained motionless for an instant .
+he did n't <mwepart id="201">cry</mwepart> <mwepart id="201">out</mwepart> .
+he fell as gently as a tree falls .
+there was not even any sound , because of the sand .
+and now of course , it 's already been six years ... i had never yet told this story .
+the companions who met me were very happy to see me alive again .
+i was sad , but i told them : `` it 's because i 'm tired ... '' now my sorrow is comforted a little .
+i mean ... not entirely .
+but i do know that he got back to his planet , because at daybreak i did n't find his body .
+it was n't a very <mwepart id="396">heavy</mwepart> <mwepart id="396">body</mwepart> ... and i love to listen to the stars at night .
+it 's just like five hundred million little bells ... but there is one <mwepart id="269">extraordinary</mwepart> <mwepart id="269">thing</mwepart> .
+when i drew the muzzle for the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , i forgot to add the leather strap <mwepart id="903">to</mwepart> <mwepart id="903">it</mwepart> .
+he would never have been able to fasten it to the sheep .
+so i wonder : what happened on his planet ?
+it may well be the sheep ate the flower ... sometimes i tell myself : `` surely not !
+the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> shuts his flower under her glass dome every night , and he watches over his sheep very carefully ... '' then i 'm happy .
+<mwepart id="48">and</mwepart> <mwepart id="1,1,48">all</mwepart> <mwepart id="1,1,48">the</mwepart> stars laugh sweetly .
+other times i tell myself : `` everyone is absent-minded at some point , and that 's all it takes !
+one evening he would 've forgotten the glass dome , or maybe the sheep got out quietly during the night ... '' and then the little bells turn to tears ... herein lies a <mwepart id="367">great</mwepart> <mwepart id="367">mystery</mwepart> .
+<mwepart id="305">for</mwepart> <mwepart id="305">you</mwepart> , who also love the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> , just like for me , <mwepart id="628">nothing</mwepart> <mwepart id="628">in</mwepart> <mwepart id="628">the</mwepart> <mwepart id="628">universe</mwepart> is the same if somewhere <mwepart id="677">out</mwepart> <mwepart id="677">there</mwepart> , a sheep that we have never seen has -- has it ?
+- eaten a rose ... <mwepart id="513">look</mwepart> <mwepart id="513">at</mwepart> the sky .
+<mwepart id="65">ask</mwepart> <mwepart id="65">yourselves</mwepart> : has the sheep-yes or no-eaten the flower ?
+and you will see how everything changes ... and no grown-up will ever understand that this is a matter of <mwepart id="864">such</mwepart> <mwepart id="864">importance</mwepart> !
+this , to me , is the most beautiful and most <mwepart id="756">sad</mwepart> <mwepart id="461,756">landscape</mwepart> <mwepart id="430,461">in</mwepart> <mwepart id="430,461">the</mwepart> <mwepart id="430,461">world</mwepart> .
+it 's the <mwepart id="760">same</mwepart> <mwepart id="760">landscape</mwepart> as the one on the <mwepart id="708">previous</mwepart> <mwepart id="708">page</mwepart> , but i have drawn it again to show it to you properly .
+it 's here that the <mwepart id="493">little</mwepart> <mwepart id="493">prince</mwepart> appeared <mwepart id="647,647">on</mwepart> <mwepart id="647,647">earth</mwepart> , and then disappeared .
+<mwepart id="513">look</mwepart> <mwepart id="513">at</mwepart> this landscape carefully , so as to <mwepart id="110">be</mwepart> <mwepart id="110">sure</mwepart> <mwepart id="110">to</mwepart> <mwepart id="110">recognise</mwepart> it if <mwepart id="656">one</mwepart> <mwepart id="656">day</mwepart> <mwepart id="656">you</mwepart> <mwepart id="915">travel</mwepart> <mwepart id="915">in</mwepart> <mwepart id="915">africa</mwepart> , in the desert .
+and if you happen to <mwepart id="683">pass</mwepart> <mwepart id="683">by</mwepart> <mwepart id="683">there</mwepart> , i beg you , do n't hurry on , wait a while exactly under the star .
+if a child then comes to you , if he laughs , if he has <mwepart id="350">golden</mwepart> <mwepart id="350">hair</mwepart> , if he does n't respond when questioned , you 'll easily guess who it is .
+so <mwepart id="886">think</mwepart> <mwepart id="886">of</mwepart> <mwepart id="886">me</mwepart> !
+save me from this sorrow : write to me quickly , to tell me he 's back ...

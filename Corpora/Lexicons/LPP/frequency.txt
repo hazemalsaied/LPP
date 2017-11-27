@@ -1,0 +1,606 @@
+# Total number of mwe in the corpus = 1802
+a dirty trick on,1
+a few,1
+a lot,7
+a lot of contact,1
+a lot of grass,1
+a lot of space,1
+a number,4
+abandoned shell,1
+about to,11
+above all on,1
+absolute monarch,1
+accident in the desert,1
+advantage of a migration of a flock,1
+agree with my,1
+all alone,8
+all at once,1
+all kinds of,1
+all of,18
+all the,37
+all the same,1
+and all barren,1
+and all day,3
+and all i,11
+and all jagged,1
+and all the,11
+answer to my,1
+apart from,2
+apparent hurry,1
+apple tree,1
+as far as,2
+as if,21
+as long as you,1
+as soon as,2
+ask of each,1
+ask yourselves,1
+at all,13
+at all afraid,1
+at first,5
+at first glance,1
+at heart,2
+at home still,1
+at last,4
+at random,1
+at that moment,2
+at the same time,2
+at the same time of day,1
+attack of rheumatism,1
+back home,2
+back home today,1
+back up,1
+bad dreamthis,1
+bad explorer,1
+bad luck,3
+bad luck for a plant,1
+bad plant,2
+be for you,3
+be good for the,1
+be in order,2
+be in the wrong,1
+be king over somebody,1
+be sure to recognise,1
+beautiful drawing,1
+beautiful occupation,1
+big book,1
+big presentation,1
+big register,1
+big time,1
+bit lonely,1
+bit sad,1
+bit wrong,2
+blessed planet most,1
+boa constrictor,7
+boa constrictors,5
+boring job,1
+bother anyone,1
+box for the sheep,1
+breakdown in the sahara,1
+breakfast in the morning,1
+bring back large,1
+brisk pace,1
+bulky almanac,1
+burrow like music,1
+business with the snake,1
+by chance that,2
+by chance that the morning,1
+can do anything,1
+career as a painter,2
+cause havoc,1
+china from arizona,1
+christmas tree,1
+closed boa constrictor,2
+color of honey,1
+colour of gold,1
+colour of the wheat,1
+coloured pencil,1
+come at just,1
+come back,3
+come back to,2
+come back tomorrow evening,1
+come down,3
+come down from here,1
+come down on,1
+come from,9
+come from a,3
+come from another,1
+come from far away,2
+come from the,4
+come in useful,1
+come on a,1
+come out,2
+come out all,1
+come to doubt,1
+come to know,2
+come to learn,1
+come to see,1
+come to visit,1
+come up to my,1
+complete tour,1
+complicated flower,1
+conceited man,9
+conceited man from afar,1
+conceited people,1
+condemn anyone,1
+confuse everything,1
+cool night,1
+copy of the drawing,1
+cry out,1
+danger of death,1
+dear fellow,2
+deep sadness,1
+demand obedience,1
+depend on your,1
+desert beautiful,2
+die for you,1
+die of thirst,1
+difficult thing,1
+discovery in question,1
+do nothing,3
+do with the,3
+do with them,3
+do with these,1
+down on,6
+down to earth,1
+draw anything except boa constrictors,2
+dreadful noise,1
+drink anything,1
+each other,2
+eat bread,1
+eat up one,1
+eighth day,1
+elephant inside a boa constrictor,1
+emerge from it,1
+enchantment over that house,1
+enough exercise,1
+enough room,1
+enough water,1
+enter into the,1
+entire planet,2
+entire world,5
+european fashion,1
+even as i,4
+exact spot,1
+express train,1
+express trains,1
+extinct volcano,3
+extinct volcano as a footstool,1
+extinct volcanoes,5
+extraordinary thing,1
+fairy tale,1
+false idea,1
+far away,6
+fat redfaced,1
+fifth day,1
+fifth planet,1
+finger of a king,1
+first drawing,2
+first moment of regret,1
+first night,1
+first thing,3
+first time,2
+flame of a lamp,1
+flirtatious creature,1
+flower at risk,1
+fond of,1
+foot of the wall,1
+for example,6
+for fun,2
+for it,35
+for you,25
+forehead with a handkerchief,1
+fourth day,1
+fourth planet,1
+fox as a friend,1
+fragile treasure,1
+fresh water,6
+fresh water in the desert,1
+from time to time you,1
+full radiance,1
+funny animal,1
+funny hat,1
+funny idea,1
+funny planet,1
+future beauty,1
+gesture of weariness,1
+get to it,1
+get to know anything,1
+glimpse into the mystery,1
+go back to your,1
+go for a,2
+go off,1
+go on by,1
+go on my,1
+go round,2
+go to france,1
+go to see,3
+golden bracelet,1
+golden hair,1
+golden muffler,1
+good and,7
+good evening,4
+good for,2
+good look around me,1
+good morning,21
+good poison,1
+good reputation,1
+good will,2
+grave doubt,1
+great consequence,1
+great difficulty,1
+great mystery,1
+great prince,1
+green chamber,1
+gust of wind,1
+hammer in hand,1
+harmless sprig,1
+hat in a salute,2
+have nothing,2
+have time,9
+have to,45
+head towards the drawing,1
+hear anyone,1
+hear anything but praise,1
+hear nothing,1
+heart with tenderness,1
+heavy body,1
+heavy drinker,1
+here and there by,1
+high mountain,2
+him with,5
+hint of sadness,2
+hour different,1
+huge bud,1
+human habitation,2
+i say,9
+idea of the size of the earth,1
+image of a rose,1
+immensity of the desert,1
+imminent disappearance,2
+important thing,1
+in peace,2
+in peace and,1
+in that,29
+in the form of a seed,1
+in the middle of the desert,1
+in the same way as,1
+in the sand,5
+in the wind,1
+in the wrong,3
+in time to catch,1
+in turn,1
+inquiry into that explorer,1
+inside of the boa constrictor,1
+intelligent man on the planet,1
+international astronomy,1
+invention of electricity,1
+judge someone,1
+just the same,2
+kind in the universe,1
+know of a,5
+know of the,4
+know someone,1
+large mountain,1
+last drop,1
+last time,2
+lazy man,1
+lead to,1
+learn something,1
+let go of a,3
+light up,1
+little boy,3
+little boys,1
+little drinking water,1
+little fellow,11
+little man,5
+little paper,1
+little planet,15
+little price,1
+little prince,171
+little prince with wonder,1
+little sheep,8
+little sleeping,1
+little space on the earth,1
+little sunshine,1
+little voice,1
+little water,7
+little way,5
+live everything,4
+locomotive engineer,1
+long journey,1
+long time,6
+long while,2
+look at,11
+look at all of,2
+look for a,3
+look for a well,2
+look for it,3
+lost sunset,1
+love in life,1
+lovely peal of laughter,1
+magnificent air of authority,1
+magnificent career as a painter,1
+magnificent ermine,1
+magnificent picture in a book,1
+magnificent simplicity,1
+majestic planet,1
+majestic throne,1
+man of consequence,5
+matter of consequence,1
+matter of discipline,1
+matter of life,1
+mean nothing,1
+mental effort,1
+metallic sound,1
+miraculous apparition,1
+mix everything,1
+modest salute,1
+moment of silence,1
+monotony of the game,1
+mooncoloured coil,1
+moral character,2
+moral character of the explorer,2
+more consequence,1
+more effort,1
+more flower,1
+more fun than the visit,1
+more glance,1
+more remorse,1
+more star,1
+morning in the grass,1
+much care,1
+much less charming,1
+much money,1
+much time,2
+music of the midnight,1
+my eye,1
+my life,3
+mysterious adornment,1
+mysterious radiation,1
+new detail,1
+new friend,1
+new kind of baobab,1
+next day,1
+next evening,1
+next planet,1
+next to,3
+no end of trouble,1
+no good,1
+no harm,1
+no longer able,1
+no longer feel,1
+no longer have,3
+no use,4
+nondescript flower,1
+noon in the united states,1
+normal reserve,1
+north america,1
+north pole,1
+not the,32
+nothing in the universe,1
+nothing like a child,2
+nothing sad,1
+now that,1
+of it,55
+old gentleman,3
+old house,1
+old monarch,1
+old planet,2
+old rat,2
+old stone wall,1
+old weathervane,1
+on earth,12
+on top of,2
+on top of it,1
+once upon a time,1
+one day different,1
+one day find,1
+one day he,4
+one day i,4
+one day they,2
+one day you,3
+only entertainment,1
+only man,2
+opposite direction,1
+order of entry on stage,1
+ordinary nourishment,1
+ordinary passerby,1
+out of,10
+out there,2
+pacific islet,1
+pain of death,1
+pale forehead,1
+paper in a draw,1
+pass by there,1
+peal of laughter,2
+peculiar sense of sorrow,1
+perfect order,1
+planet of the geographer,1
+play with me,1
+play with you,1
+point out to,1
+poor drinker,1
+pour out,1
+prefer people,1
+presence of a king,1
+present of a secret,1
+pretend to die,2
+pretend to nurse,1
+previous page,1
+price of happiness,1
+primeval forest,1
+proud flower,1
+provide proof,1
+public square,1
+quench thirst,1
+quiet sweetness,1
+radiance of the gift,1
+raise in salute,1
+real profession,1
+real purpose,1
+reasonable order,1
+red brick,1
+reflective silence,1
+reply to my,1
+reputation of asteroid,1
+rest of the day,1
+rest of the night,1
+rich help,1
+rid of,1
+right day,1
+right here,1
+right place,1
+right there,2
+round once every minute,1
+run away,1
+run by anyone,1
+rusty pulley,1
+sad landscape in the world,1
+sad life,1
+sailor on a raft in the middle of the ocean,1
+same day,2
+same landscape,1
+same moment as the sun,1
+sand at sunrise,1
+sand dune,1
+sand in the moonlight,1
+save fiftythree,1
+say anything,3
+say goodbye,1
+say in response,1
+science of government,1
+second bite,1
+second planet,2
+second time,1
+see anyone,2
+see nothing,3
+see sheep,2
+see to it that you,1
+sense of grief,1
+sense of something irreparable,1
+sense of urgency,1
+sensible man,1
+serious look,1
+serious reason,1
+seventh planet,1
+sheet of paper,1
+short visit,1
+sigh of regret,1
+silence in front of a number,1
+silent meditation on a problem,1
+similar way,1
+single baobab,1
+single explorer,1
+single garden,2
+single lamp,2
+single lamp of the south pole,1
+single rose,1
+single row,1
+sit down,4
+sit down on,1
+sixth planet,1
+sketch of a muzzle,1
+sky at night,2
+sleep on,2
+small child,1
+small disclosure,1
+small sheep,1
+so far,3
+so far away,1
+so much,7
+so much fun,1
+so much sadness,1
+so much trouble,1
+so much work,1
+so that,22
+so what,5
+soil of the planet,1
+sole interest,1
+something extraordinary,1
+something invisible,1
+something other,1
+song of the pulley,2
+sort of resentment,1
+sound of the wind,1
+south america,1
+space for a carriage,1
+speak to them,2
+special festival,1
+spray of a fountain,1
+sprig of radish,1
+stay in the,1
+step back,1
+story of the merchant,1
+subtle gesture,1
+such care,1
+such importance,1
+such power,1
+sudden apparition,1
+sweep out,2
+take it away,2
+take pleasure,1
+talk to them,1
+terrible profession,1
+that be,20
+the edge,1
+the idea,5
+the idea of the herd,1
+the other side of the planet,1
+think of him,1
+think of me,1
+think of my,3
+third day,1
+time on this chore,1
+time with a rag doll,1
+tiny planet,2
+tired of the,1
+to bed,1
+to death,4
+to do,24
+to do with the,2
+to it,84
+to light,2
+to my,60
+to order me,4
+to rest,4
+to the eye,2
+tolerate disobedience,1
+tolerate insubordination,1
+tragic drama,1
+travel in africa,1
+trouble with a flower,1
+true understanding,1
+turkish astronomer,1
+turkish dictator,1
+understand anything,1
+understand life,3
+unique flower,1
+up against,1
+up to,15
+up to it,4
+veritable army,1
+very well,1
+visit from an admirer,1
+wait for what,1
+wait for you,2
+walk toward the wall,1
+water can,3
+water supply,1
+well at daybreak,1
+wheat fields,2
+white as snow,1
+whole herd,1
+whole planet,1
+wide eyed,1
+wild animal,1
+wonderful day,1
+wonderful spectacle,1
+work out,1
+worth it,2
+worth the effort,1
+write about eternal,1
+wrong planet,2
+yellow flash,1
+you a,66
+you know,16
+young judge,1

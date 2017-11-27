@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE dict SYSTEM "dtd/mwetoolkit-patterns.dtd">
+<patterns>
+    <pat>
+        <w surface="a"></w>
+        <w surface="dirty"></w>
+        <w surface="trick"></w>
+    </pat>
+    <pat>
+        <w surface="a"></w>
+        <w surface="few"></w>
+    </pat>
+    <pat>
+        <w surface="a"></w>
+        <w surface="lot"></w>
+    </pat>
+    <pat>
+        <w surface="a"></w>
+        <w surface="number"></w>
+    </pat>
+    <pat>
+        <w surface="a"></w>
+        <w surface="well"></w>
+    </pat>
+    <pat>
+        <w surface="about"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="above"></w>
+        <w surface="all"></w>
+    </pat>
+    <pat>
+        <w surface="active"></w>
+        <w surface="volcano"></w>
+    </pat>
+    <pat>
+        <w surface="against"></w>
+        <w surface="all"></w>
+        <w surface="odds"></w>
+    </pat>
+    <pat>
+        <w surface="agree"></w>
+        <w surface="with"></w>
+    </pat>
+    <pat>
+        <w surface="all"></w>
+        <w surface="alone"></w>
+    </pat>
+    <pat>
+        <w surface="all"></w>
+        <w surface="at"></w>
+        <w surface="once"></w>
+    </pat>
+    <pat>
+        <w surface="all"></w>
+        <w surface="kind"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="all"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="all"></w>
+        <w surface="the"></w>
+    </pat>
+    <pat>
+        <w surface="all"></w>
+        <w surface="the"></w>
+        <w surface="same"></w>
+    </pat>
+    <pat>
+        <w surface="am"></w>
+        <w surface="a"></w>
+        <w surface="man"></w>
+    </pat>
+    <pat>
+        <w surface="and"></w>
+        <w surface="all"></w>
+    </pat>
+    <pat>
+        <w surface="and"></w>
+        <w surface="how"></w>
+    </pat>
+    <pat>
+        <w surface="answer"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="any"></w>
+        <w surface="day"></w>
+    </pat>
+    <pat>
+        <w surface="anything"></w>
+        <w surface="but"></w>
+    </pat>
+    <pat>
+        <w surface="anything"></w>
+        <w surface="up"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="apart"></w>
+        <w surface="from"></w>
+    </pat>
+    <pat>
+        <w surface="apple"></w>
+        <w surface="tree"></w>
+    </pat>
+    <pat>
+        <w surface="are"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="are"></w>
+        <w surface="like"></w>
+        <w surface="that"></w>
+    </pat>
+    <pat>
+        <w surface="a"></w>
+        <w surface="best"></w>
+        <w surface="can"></w>
+    </pat>
+    <pat>
+        <w surface="a"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="a"></w>
+        <w surface="if"></w>
+    </pat>
+    <pat>
+        <w surface="a"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="ask"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="all"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="first"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="first"></w>
+        <w surface="glance"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="heart"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="home"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="last"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="least"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="once"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="random"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="that"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="the"></w>
+        <w surface="moment"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="the"></w>
+        <w surface="other"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="the"></w>
+        <w surface="same"></w>
+        <w surface="time"></w>
+    </pat>
+    <pat>
+        <w surface="at"></w>
+        <w surface="the"></w>
+        <w surface="time"></w>
+    </pat>
+    <pat>
+        <w surface="back"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="bad"></w>
+        <w surface="luck"></w>
+    </pat>
+    <pat>
+        <w surface="based"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="be"></w>
+        <w surface="about"></w>
+    </pat>
+    <pat>
+        <w surface="be"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="be"></w>
+        <w surface="good"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="be"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="be"></w>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="wrong"></w>
+    </pat>
+    <pat>
+        <w surface="be"></w>
+        <w surface="on"></w>
+        <w surface="one"></w>
+    </pat>
+    <pat>
+        <w surface="be"></w>
+        <w surface="sure"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="because"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="big"></w>
+        <w surface="time"></w>
+    </pat>
+    <pat>
+        <w surface="blown"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="boa"></w>
+        <w surface="constrictor"></w>
+    </pat>
+    <pat>
+        <w surface="boa"></w>
+        <w surface="constrictor"></w>
+    </pat>
+    <pat>
+        <w surface="breathed"></w>
+        <w surface="easily"></w>
+    </pat>
+    <pat>
+        <w surface="bring"></w>
+        <w surface="back"></w>
+    </pat>
+    <pat>
+        <w surface="bringing"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="bringing"></w>
+        <w surface="to"></w>
+        <w surface="life"></w>
+    </pat>
+    <pat>
+        <w surface="broke"></w>
+        <w surface="into"></w>
+    </pat>
+    <pat>
+        <w surface="broken"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="burst"></w>
+        <w surface="into"></w>
+    </pat>
+    <pat>
+        <w surface="burst"></w>
+        <w surface="into"></w>
+        <w surface="tear"></w>
+    </pat>
+    <pat>
+        <w surface="by"></w>
+        <w surface="chance"></w>
+    </pat>
+    <pat>
+        <w surface="called"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="across"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="back"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="came"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="down"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="down"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="down"></w>
+        <w surface="to"></w>
+        <w surface="earth"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="from"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="into"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="to"></w>
+        <w surface="mind"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="came"></w>
+        <w surface="up"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="can"></w>
+        <w surface="do"></w>
+    </pat>
+    <pat>
+        <w surface="care"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="carry"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="caught"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="caught"></w>
+        <w surface="sight"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="chasing"></w>
+        <w surface="after"></w>
+    </pat>
+    <pat>
+        <w surface="clean"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="cleaned"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="close"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="back"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="come"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="down"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="down"></w>
+        <w surface="from"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="down"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="from"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="in"></w>
+        <w surface="useful"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="now"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="to"></w>
+        <w surface="that"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="up"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="come"></w>
+    </pat>
+    <pat>
+        <w surface="come"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="coming"></w>
+        <w surface="coming"></w>
+    </pat>
+    <pat>
+        <w surface="coming"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="covered"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="covered"></w>
+        <w surface="with"></w>
+    </pat>
+    <pat>
+        <w surface="cried"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="cry"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="depend"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="did"></w>
+        <w surface="you"></w>
+        <w surface="know"></w>
+    </pat>
+    <pat>
+        <w surface="die"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="die"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="dirty"></w>
+        <w surface="trick"></w>
+    </pat>
+    <pat>
+        <w surface="do"></w>
+        <w surface="with"></w>
+    </pat>
+    <pat>
+        <w surface="done"></w>
+        <w surface="no"></w>
+        <w surface="good"></w>
+    </pat>
+    <pat>
+        <w surface="down"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="drinking"></w>
+        <w surface="water"></w>
+    </pat>
+    <pat>
+        <w surface="dying"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="each"></w>
+        <w surface="other"></w>
+    </pat>
+    <pat>
+        <w surface="eat"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="emerge"></w>
+        <w surface="from"></w>
+    </pat>
+    <pat>
+        <w surface="enter"></w>
+        <w surface="into"></w>
+    </pat>
+    <pat>
+        <w surface="entire"></w>
+        <w surface="world"></w>
+    </pat>
+    <pat>
+        <w surface="even"></w>
+        <w surface="a"></w>
+    </pat>
+    <pat>
+        <w surface="even"></w>
+        <w surface="a"></w>
+    </pat>
+    <pat>
+        <w surface="express"></w>
+        <w surface="train"></w>
+    </pat>
+    <pat>
+        <w surface="express"></w>
+        <w surface="train"></w>
+    </pat>
+    <pat>
+        <w surface="extinct"></w>
+        <w surface="volcano"></w>
+    </pat>
+    <pat>
+        <w surface="extinct"></w>
+        <w surface="volcano"></w>
+    </pat>
+    <pat>
+        <w surface="eye"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="faded"></w>
+        <w surface="away"></w>
+    </pat>
+    <pat>
+        <w surface="fairy"></w>
+        <w surface="tale"></w>
+    </pat>
+    <pat>
+        <w surface="feel"></w>
+        <w surface="good"></w>
+    </pat>
+    <pat>
+        <w surface="find"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="first"></w>
+        <w surface="came"></w>
+    </pat>
+    <pat>
+        <w surface="first"></w>
+        <w surface="night"></w>
+    </pat>
+    <pat>
+        <w surface="fond"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="for"></w>
+        <w surface="example"></w>
+    </pat>
+    <pat>
+        <w surface="for"></w>
+        <w surface="fun"></w>
+    </pat>
+    <pat>
+        <w surface="for"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="for"></w>
+        <w surface="once"></w>
+    </pat>
+    <pat>
+        <w surface="for"></w>
+        <w surface="the"></w>
+        <w surface="first"></w>
+        <w surface="time"></w>
+    </pat>
+    <pat>
+        <w surface="for"></w>
+        <w surface="the"></w>
+        <w surface="world"></w>
+    </pat>
+    <pat>
+        <w surface="for"></w>
+        <w surface="you"></w>
+    </pat>
+    <pat>
+        <w surface="fresh"></w>
+        <w surface="water"></w>
+    </pat>
+    <pat>
+        <w surface="from"></w>
+        <w surface="afar"></w>
+    </pat>
+    <pat>
+        <w surface="from"></w>
+        <w surface="time"></w>
+        <w surface="to"></w>
+        <w surface="time"></w>
+    </pat>
+    <pat>
+        <w surface="gathered"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="gave"></w>
+        <w surface="it"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="gave"></w>
+        <w surface="way"></w>
+    </pat>
+    <pat>
+        <w surface="gave"></w>
+        <w surface="way"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="gazed"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="get"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="glance"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="away"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="back"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="back"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="far"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="off"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="round"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="round"></w>
+        <w surface="in"></w>
+        <w surface="circle"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="to"></w>
+        <w surface="bed"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="to"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="god"></w>
+        <w surface="know"></w>
+    </pat>
+    <pat>
+        <w surface="go"></w>
+        <w surface="down"></w>
+    </pat>
+    <pat>
+        <w surface="going"></w>
+        <w surface="back"></w>
+    </pat>
+    <pat>
+        <w surface="going"></w>
+        <w surface="back"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="going"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="going"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="golden"></w>
+        <w surface="hair"></w>
+    </pat>
+    <pat>
+        <w surface="gone"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="gone"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="good"></w>
+        <w surface="and"></w>
+    </pat>
+    <pat>
+        <w surface="good"></w>
+        <w surface="evening"></w>
+    </pat>
+    <pat>
+        <w surface="good"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="good"></w>
+        <w surface="look"></w>
+    </pat>
+    <pat>
+        <w surface="good"></w>
+        <w surface="reputation"></w>
+    </pat>
+    <pat>
+        <w surface="got"></w>
+        <w surface="away"></w>
+    </pat>
+    <pat>
+        <w surface="got"></w>
+        <w surface="back"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="got"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="got"></w>
+        <w surface="stuck"></w>
+    </pat>
+    <pat>
+        <w surface="grow"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="gust"></w>
+        <w surface="of"></w>
+        <w surface="wind"></w>
+    </pat>
+    <pat>
+        <w surface="had"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="hammer"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="happened"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="ha"></w>
+        <w surface="nothing"></w>
+        <w surface="to"></w>
+        <w surface="do"></w>
+        <w surface="with"></w>
+    </pat>
+    <pat>
+        <w surface="ha"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="ha"></w>
+        <w surface="to"></w>
+        <w surface="do"></w>
+        <w surface="with"></w>
+    </pat>
+    <pat>
+        <w surface="have"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="heart"></w>
+        <w surface="skipped"></w>
+        <w surface="a"></w>
+        <w surface="beat"></w>
+    </pat>
+    <pat>
+        <w surface="heavy"></w>
+        <w surface="body"></w>
+    </pat>
+    <pat>
+        <w surface="heavy"></w>
+        <w surface="drinker"></w>
+    </pat>
+    <pat>
+        <w surface="heavy"></w>
+        <w surface="drinker"></w>
+    </pat>
+    <pat>
+        <w surface="held"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="here"></w>
+        <w surface="and"></w>
+        <w surface="there"></w>
+    </pat>
+    <pat>
+        <w surface="home"></w>
+        <w surface="today"></w>
+    </pat>
+    <pat>
+        <w surface="i"></w>
+        <w surface="said"></w>
+    </pat>
+    <pat>
+        <w surface="i"></w>
+        <w surface="say"></w>
+    </pat>
+    <pat>
+        <w surface="i"></w>
+        <w surface="telling"></w>
+        <w surface="you"></w>
+    </pat>
+    <pat>
+        <w surface="i"></w>
+        <w surface="told"></w>
+        <w surface="you"></w>
+    </pat>
+    <pat>
+        <w surface="imposed"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="a"></w>
+        <w surface="hurry"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="case"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="circle"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="hand"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="midair"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="order"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="peace"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="question"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="response"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="silence"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="that"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="form"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="middle"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="middle"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="past"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="same"></w>
+        <w surface="way"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="sand"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="way"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="world"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="the"></w>
+        <w surface="wrong"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="time"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="time"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="in"></w>
+        <w surface="turn"></w>
+    </pat>
+    <pat>
+        <w surface="inside"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="instead"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="is"></w>
+        <w surface="a"></w>
+        <w surface="man"></w>
+    </pat>
+    <pat>
+        <w surface="is"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="is"></w>
+        <w surface="inside"></w>
+    </pat>
+    <pat>
+        <w surface="is"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="judged"></w>
+        <w surface="by"></w>
+    </pat>
+    <pat>
+        <w surface="just"></w>
+        <w surface="for"></w>
+        <w surface="fun"></w>
+    </pat>
+    <pat>
+        <w surface="just"></w>
+        <w surface="in"></w>
+        <w surface="time"></w>
+    </pat>
+    <pat>
+        <w surface="just"></w>
+        <w surface="like"></w>
+        <w surface="that"></w>
+    </pat>
+    <pat>
+        <w surface="just"></w>
+        <w surface="the"></w>
+        <w surface="same"></w>
+    </pat>
+    <pat>
+        <w surface="kind"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="kind"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="kind"></w>
+        <w surface="of"></w>
+        <w surface="thing"></w>
+    </pat>
+    <pat>
+        <w surface="know"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="laughed"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="lead"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="leading"></w>
+        <w surface="up"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="lead"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="leaning"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="leant"></w>
+        <w surface="over"></w>
+    </pat>
+    <pat>
+        <w surface="leave"></w>
+        <w surface="aside"></w>
+    </pat>
+    <pat>
+        <w surface="left"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="left"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="left"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="let"></w>
+        <w surface="go"></w>
+    </pat>
+    <pat>
+        <w surface="let"></w>
+        <w surface="go"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="light"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="little"></w>
+        <w surface="boy"></w>
+    </pat>
+    <pat>
+        <w surface="little"></w>
+        <w surface="fellow"></w>
+    </pat>
+    <pat>
+        <w surface="lived"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="lived"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="living"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="look"></w>
+        <w surface="after"></w>
+    </pat>
+    <pat>
+        <w surface="look"></w>
+        <w surface="around"></w>
+    </pat>
+    <pat>
+        <w surface="look"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="look"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="looked"></w>
+        <w surface="around"></w>
+    </pat>
+    <pat>
+        <w surface="looked"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="looked"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="looking"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="looking"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="look"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="lost"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="lost"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="lying"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="made"></w>
+        <w surface="friend"></w>
+    </pat>
+    <pat>
+        <w surface="made"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="moving"></w>
+        <w surface="about"></w>
+    </pat>
+    <pat>
+        <w surface="my"></w>
+        <w surface="eye"></w>
+    </pat>
+    <pat>
+        <w surface="my"></w>
+        <w surface="eye"></w>
+    </pat>
+    <pat>
+        <w surface="my"></w>
+        <w surface="foot"></w>
+    </pat>
+    <pat>
+        <w surface="my"></w>
+        <w surface="life"></w>
+    </pat>
+    <pat>
+        <w surface="name"></w>
+        <w surface="name"></w>
+    </pat>
+    <pat>
+        <w surface="name"></w>
+        <w surface="name"></w>
+    </pat>
+    <pat>
+        <w surface="next"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="no"></w>
+        <w surface="end"></w>
+    </pat>
+    <pat>
+        <w surface="no"></w>
+        <w surface="good"></w>
+    </pat>
+    <pat>
+        <w surface="no"></w>
+        <w surface="harm"></w>
+    </pat>
+    <pat>
+        <w surface="no"></w>
+        <w surface="longer"></w>
+    </pat>
+    <pat>
+        <w surface="no"></w>
+        <w surface="use"></w>
+    </pat>
+    <pat>
+        <w surface="north"></w>
+        <w surface="pole"></w>
+    </pat>
+    <pat>
+        <w surface="nose"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="not"></w>
+        <w surface="at"></w>
+        <w surface="all"></w>
+    </pat>
+    <pat>
+        <w surface="not"></w>
+        <w surface="much"></w>
+    </pat>
+    <pat>
+        <w surface="nothing"></w>
+        <w surface="like"></w>
+    </pat>
+    <pat>
+        <w surface="now"></w>
+        <w surface="that"></w>
+    </pat>
+    <pat>
+        <w surface="occurred"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="of"></w>
+        <w surface="a"></w>
+        <w surface="kind"></w>
+    </pat>
+    <pat>
+        <w surface="of"></w>
+        <w surface="course"></w>
+    </pat>
+    <pat>
+        <w surface="of"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="of"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="old"></w>
+        <w surface="day"></w>
+    </pat>
+    <pat>
+        <w surface="on"></w>
+        <w surface="earth"></w>
+    </pat>
+    <pat>
+        <w surface="on"></w>
+        <w surface="top"></w>
+    </pat>
+    <pat>
+        <w surface="on"></w>
+        <w surface="top"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="once"></w>
+        <w surface="upon"></w>
+        <w surface="a"></w>
+        <w surface="time"></w>
+    </pat>
+    <pat>
+        <w surface="one"></w>
+        <w surface="day"></w>
+    </pat>
+    <pat>
+        <w surface="out"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="out"></w>
+        <w surface="of"></w>
+        <w surface="pocket"></w>
+    </pat>
+    <pat>
+        <w surface="pain"></w>
+        <w surface="of"></w>
+        <w surface="death"></w>
+    </pat>
+    <pat>
+        <w surface="piled"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="play"></w>
+        <w surface="with"></w>
+    </pat>
+    <pat>
+        <w surface="plucked"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="plucked"></w>
+        <w surface="up"></w>
+        <w surface="courage"></w>
+    </pat>
+    <pat>
+        <w surface="point"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="pointed"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="pointing"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="pour"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="preparing"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="pretend"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="price"></w>
+        <w surface="price"></w>
+    </pat>
+    <pat>
+        <w surface="pull"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="pulled"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="put"></w>
+        <w surface="down"></w>
+    </pat>
+    <pat>
+        <w surface="put"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="put"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="rag"></w>
+        <w surface="doll"></w>
+    </pat>
+    <pat>
+        <w surface="reign"></w>
+        <w surface="over"></w>
+    </pat>
+    <pat>
+        <w surface="replied"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="reply"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="revealed"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="rid"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="rise"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="run"></w>
+        <w surface="away"></w>
+    </pat>
+    <pat>
+        <w surface="sand"></w>
+        <w surface="dune"></w>
+    </pat>
+    <pat>
+        <w surface="sat"></w>
+        <w surface="down"></w>
+    </pat>
+    <pat>
+        <w surface="say"></w>
+        <w surface="about"></w>
+    </pat>
+    <pat>
+        <w surface="see"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="see"></w>
+        <w surface="to"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="see"></w>
+        <w surface="to"></w>
+        <w surface="it"></w>
+        <w surface="that"></w>
+    </pat>
+    <pat>
+        <w surface="seen"></w>
+        <w surface="through"></w>
+    </pat>
+    <pat>
+        <w surface="sense"></w>
+        <w surface="of"></w>
+        <w surface="urgency"></w>
+    </pat>
+    <pat>
+        <w surface="serf"></w>
+        <w surface="a"></w>
+    </pat>
+    <pat>
+        <w surface="set"></w>
+        <w surface="off"></w>
+    </pat>
+    <pat>
+        <w surface="set"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="shut"></w>
+        <w surface="away"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="sit"></w>
+        <w surface="down"></w>
+    </pat>
+    <pat>
+        <w surface="sitting"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="sitting"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="sketch"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="sleep"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="so"></w>
+        <w surface="a"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="so"></w>
+        <w surface="far"></w>
+    </pat>
+    <pat>
+        <w surface="so"></w>
+        <w surface="much"></w>
+    </pat>
+    <pat>
+        <w surface="so"></w>
+        <w surface="that"></w>
+    </pat>
+    <pat>
+        <w surface="so"></w>
+        <w surface="what"></w>
+    </pat>
+    <pat>
+        <w surface="sort"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="south"></w>
+        <w surface="pole"></w>
+    </pat>
+    <pat>
+        <w surface="speak"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="speaking"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="spoke"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="spurred"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="start"></w>
+        <w surface="off"></w>
+    </pat>
+    <pat>
+        <w surface="stay"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="step"></w>
+        <w surface="back"></w>
+    </pat>
+    <pat>
+        <w surface="stirred"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="stone"></w>
+        <w surface="wall"></w>
+    </pat>
+    <pat>
+        <w surface="stood"></w>
+        <w surface="back"></w>
+    </pat>
+    <pat>
+        <w surface="succeed"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="such"></w>
+        <w surface="a"></w>
+    </pat>
+    <pat>
+        <w surface="surprise"></w>
+        <w surface="surprise"></w>
+    </pat>
+    <pat>
+        <w surface="surprised"></w>
+        <w surface="surprised"></w>
+    </pat>
+    <pat>
+        <w surface="sweep"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="swell"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="swept"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="it"></w>
+        <w surface="away"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="taken"></w>
+        <w surface="over"></w>
+    </pat>
+    <pat>
+        <w surface="taken"></w>
+        <w surface="seriously"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="away"></w>
+        <w surface="from"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="it"></w>
+        <w surface="away"></w>
+    </pat>
+    <pat>
+        <w surface="take"></w>
+        <w surface="over"></w>
+    </pat>
+    <pat>
+        <w surface="taking"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="talk"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="talked"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="thanks"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="that"></w>
+        <w surface="s"></w>
+        <w surface="all"></w>
+    </pat>
+    <pat>
+        <w surface="the"></w>
+        <w surface="idea"></w>
+    </pat>
+    <pat>
+        <w surface="think"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="thinking"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="think"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="this"></w>
+        <w surface="is"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="thought"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="time"></w>
+        <w surface="of"></w>
+        <w surface="day"></w>
+    </pat>
+    <pat>
+        <w surface="tired"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="be"></w>
+        <w surface="sure"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="bed"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="do"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="light"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="my"></w>
+        <w surface="mind"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="order"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="piece"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="rest"></w>
+    </pat>
+    <pat>
+        <w surface="to"></w>
+        <w surface="the"></w>
+        <w surface="eye"></w>
+    </pat>
+    <pat>
+        <w surface="told"></w>
+        <w surface="apart"></w>
+    </pat>
+    <pat>
+        <w surface="tomorrow"></w>
+        <w surface="evening"></w>
+    </pat>
+    <pat>
+        <w surface="took"></w>
+        <w surface="advantage"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="took"></w>
+        <w surface="heart"></w>
+    </pat>
+    <pat>
+        <w surface="took"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="took"></w>
+        <w surface="out"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="travel"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="turn"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="up"></w>
+        <w surface="against"></w>
+    </pat>
+    <pat>
+        <w surface="up"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="very"></w>
+        <w surface="well"></w>
+    </pat>
+    <pat>
+        <w surface="wait"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="wake"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="wander"></w>
+        <w surface="off"></w>
+    </pat>
+    <pat>
+        <w surface="wa"></w>
+        <w surface="afraid"></w>
+        <w surface="of"></w>
+    </pat>
+    <pat>
+        <w surface="wa"></w>
+        <w surface="good"></w>
+        <w surface="for"></w>
+    </pat>
+    <pat>
+        <w surface="wa"></w>
+        <w surface="in"></w>
+    </pat>
+    <pat>
+        <w surface="wa"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="wa"></w>
+        <w surface="sure"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="watch"></w>
+        <w surface="over"></w>
+    </pat>
+    <pat>
+        <w surface="water"></w>
+        <w surface="can"></w>
+    </pat>
+    <pat>
+        <w surface="water"></w>
+        <w surface="supply"></w>
+    </pat>
+    <pat>
+        <w surface="went"></w>
+        <w surface="away"></w>
+    </pat>
+    <pat>
+        <w surface="went"></w>
+        <w surface="back"></w>
+    </pat>
+    <pat>
+        <w surface="went"></w>
+        <w surface="back"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="went"></w>
+        <w surface="on"></w>
+    </pat>
+    <pat>
+        <w surface="went"></w>
+        <w surface="to"></w>
+    </pat>
+    <pat>
+        <w surface="were"></w>
+        <w surface="at"></w>
+    </pat>
+    <pat>
+        <w surface="what"></w>
+        <w surface="ha"></w>
+        <w surface="you"></w>
+    </pat>
+    <pat>
+        <w surface="wheat"></w>
+        <w surface="field"></w>
+    </pat>
+    <pat>
+        <w surface="white"></w>
+        <w surface="a"></w>
+        <w surface="snow"></w>
+    </pat>
+    <pat>
+        <w surface="wide"></w>
+        <w surface="eyed"></w>
+    </pat>
+    <pat>
+        <w surface="with"></w>
+        <w surface="it"></w>
+    </pat>
+    <pat>
+        <w surface="woken"></w>
+        <w surface="up"></w>
+    </pat>
+    <pat>
+        <w surface="work"></w>
+        <w surface="out"></w>
+    </pat>
+    <pat>
+        <w surface="write"></w>
+        <w surface="about"></w>
+    </pat>
+    <pat>
+        <w surface="writes"></w>
+        <w surface="down"></w>
+    </pat>
+    <pat>
+        <w surface="you"></w>
+        <w surface="know"></w>
+    </pat>
+</patterns>
