@@ -3,6 +3,7 @@ import os
 import sys
 
 import nltk
+
 import utilities
 
 cbtRawTextPath = '../Corpora/CBT/raw.txt'
@@ -48,16 +49,14 @@ def getCBT2Gram():
         cbt2gramFile.write(result)
     logging.warn('The file {0} has been created!'.format(os.path.basename(cbt2gramPath)))
 
-from nltk import WordNetLemmatizer
 
-def raw2Conll(rawFolder, conllFolder ):
+def raw2Conll(rawFolder, conllFolder):
     for rawF in os.listdir(rawFolder):
         print 'Workin with: ', rawF
         rawFP = os.path.join(rawFolder, rawF)
         idx = int(str(rawF).split('.')[0][3:])
-        conllFP =  os.path.join(conllFolder,'conll{0}.txt'.format(idx))
+        conllFP = os.path.join(conllFolder, 'conll{0}.txt'.format(idx))
         utilities.rawToConllu(rawFP, conllFP)
-
 
 
 if __name__ == '__main__':

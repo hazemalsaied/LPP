@@ -2,8 +2,10 @@ import datetime
 import logging
 import sys
 
-import projection
 from nltk.stem import WordNetLemmatizer
+
+import projection
+
 
 def crossLexiconOnRaw(corpusPath, crossedCorpusPath, csvFilePath, fieldNum=1):
     time = datetime.datetime.now()

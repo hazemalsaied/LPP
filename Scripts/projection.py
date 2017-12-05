@@ -277,7 +277,7 @@ def tokenize(str):
 
     return tokens
 
-import cbt
+
 if __name__ == '__main__':
     reload(sys)
     sys.setdefaultencoding('utf8')

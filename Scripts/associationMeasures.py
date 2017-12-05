@@ -40,7 +40,7 @@ def getScoresFromXML(readingPath, writingPath, prefix='cbt'):
     result = {}
     for cand in root:
         if cand.tag == 'cand':
-            mweLemmaStr, mweStr, posTags, frequency, features = '','','', 0, dict()
+            mweLemmaStr, mweStr, posTags, frequency, features = '', '', '', 0, dict()
             for c in cand:
                 if c.tag == 'ngram':
                     for w in c:
@@ -50,7 +50,7 @@ def getScoresFromXML(readingPath, writingPath, prefix='cbt'):
                                 mweStr += w.attrib['surface'] + ' '
                             else:
                                 mweStr += w.attrib['lemma'] + ' '
-                            # posTags += w.attrib['pos'] + ' '
+                                # posTags += w.attrib['pos'] + ' '
                     # mweLemmaStr = mweLemmaStr[:-1]
                     mweStr = mweStr[:-1]
                     # posTags = posTags[:-1]
@@ -65,16 +65,16 @@ def getScoresFromXML(readingPath, writingPath, prefix='cbt'):
                         features[name] = value
             # print mweStr, frequency, features
             result['{0} , {1} , {2} , {3} , {4} , {5} , {6}\n'.format(mweStr, frequency,
-                                                             features['mle_' + prefix] if (
-                                                                                          'mle_' + prefix) in features else'',
-                                                             features['dice_' + prefix] if (
-                                                                                           'dice_' + prefix) in features else'',
-                                                             features['ll_' + prefix] if (
-                                                             'll_' + prefix in features) else'',
-                                                             features['t_' + prefix] if (
-                                                             't_' + prefix in features) else'',
-                                                             features['pmi_' + prefix] if (
-                                                             'pmi_' + prefix in features) else'')] = True
+                                                                      features['mle_' + prefix] if (
+                                                                                                       'mle_' + prefix) in features else'',
+                                                                      features['dice_' + prefix] if (
+                                                                                                        'dice_' + prefix) in features else'',
+                                                                      features['ll_' + prefix] if (
+                                                                          'll_' + prefix in features) else'',
+                                                                      features['t_' + prefix] if (
+                                                                          't_' + prefix in features) else'',
+                                                                      features['pmi_' + prefix] if (
+                                                                          'pmi_' + prefix in features) else'')] = True
 
     with open(writingPath, 'w') as csvFile:
         csvFile.write(''.join(sorted(result.keys())))
