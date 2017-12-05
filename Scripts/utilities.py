@@ -137,19 +137,19 @@ if __name__ == '__main__':
     sys.setdefaultencoding('utf8')
 
     # for i in range(1, 60):
-        # raw2Lemmatized('../Corpora/CBT/Divided', str(i))
-        # print [i for i, j in enumerate(['foo', 'bar', 'bar']) if j == 'bar']
+    # raw2Lemmatized('../Corpora/CBT/Divided', str(i))
+    # print [i for i, j in enumerate(['foo', 'bar', 'bar']) if j == 'bar']
 
-        # getCBT2Gram()
-        # getCBTRawStats()
-        # getCBT2Gram()
-        # getCBTStats(cbtRawTextPath,cbtRawStatsPath)
-        # getCBTStats(cbt2gramPath, cbRaw2gramStatsPath)
-        #
-        # getLPPLexicon()
-        # getLPPLexicon()
-        # cbtRawTextPath = ''
-        # cbtConllPath = ''
+    # getCBT2Gram()
+    # getCBTRawStats()
+    # getCBT2Gram()
+    # getCBTStats(cbtRawTextPath,cbtRawStatsPath)
+    # getCBTStats(cbt2gramPath, cbRaw2gramStatsPath)
+    #
+    # getLPPLexicon()
+    # getLPPLexicon()
+    # cbtRawTextPath = ''
+    # cbtConllPath = ''
 
     cbtRawTextPath = '/Users/halsaied/PycharmProjects/LePetitPrince/Corpora/CBT/raw.txt'
     cbtConllPath = '/Users/halsaied/PycharmProjects/LePetitPrince/Corpora/CBT/conll-without-pos.txt'

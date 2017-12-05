@@ -114,7 +114,7 @@ if __name__ == '__main__':
     reload(sys)
     sys.setdefaultencoding('utf8')
     # createPatternXml()
-    utilities.crossLexiconOnRaw(lppRawPath, lppLexiconPath, lppCrossedPath)
+    # utilities.crossLexiconOnRaw(lppRawPath, lppLexiconPath, lppCrossedPath)
     # cbtRaw = '../Corpora/CBT/raw.txt'
     # cbtCrossedPath = '../Corpora/CBT/mwe.txt'
     # utilities.crossLexiconOnRaw(cbtRaw, lppLexiconPath, cbtCrossedPath)
